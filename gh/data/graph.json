@@ -1,0 +1,6636 @@
+{
+  "edges": [
+    {
+      "id": "aarongable-google",
+      "target": "google",
+      "source": "aarongable"
+    },
+    {
+      "id": "aarossig-google",
+      "target": "google",
+      "source": "aarossig"
+    },
+    {
+      "id": "abahgat-google",
+      "target": "google",
+      "source": "abahgat"
+    },
+    {
+      "id": "abarth-google",
+      "target": "google",
+      "source": "abarth"
+    },
+    {
+      "id": "abbot-google",
+      "target": "google",
+      "source": "abbot"
+    },
+    {
+      "id": "acdvorak-google",
+      "target": "google",
+      "source": "acdvorak"
+    },
+    {
+      "id": "acgessler-google",
+      "target": "google",
+      "source": "acgessler"
+    },
+    {
+      "id": "aclements-google",
+      "target": "google",
+      "source": "aclements"
+    },
+    {
+      "id": "adilhn-google",
+      "target": "google",
+      "source": "adilhn"
+    },
+    {
+      "id": "adrifelt-google",
+      "target": "google",
+      "source": "adrifelt"
+    },
+    {
+      "id": "aeckleder-google",
+      "target": "google",
+      "source": "aeckleder"
+    },
+    {
+      "id": "aehlig-google",
+      "target": "google",
+      "source": "aehlig"
+    },
+    {
+      "id": "agangloff-google",
+      "target": "google",
+      "source": "agangloff"
+    },
+    {
+      "id": "aghassemi-google",
+      "target": "google",
+      "source": "aghassemi"
+    },
+    {
+      "id": "agl-google",
+      "target": "google",
+      "source": "agl"
+    },
+    {
+      "id": "ajessup-google",
+      "target": "google",
+      "source": "ajessup"
+    },
+    {
+      "id": "ajklein-google",
+      "target": "google",
+      "source": "ajklein"
+    },
+    {
+      "id": "akalachman-google",
+      "target": "google",
+      "source": "akalachman"
+    },
+    {
+      "id": "alabiaga-google",
+      "target": "google",
+      "source": "alabiaga"
+    },
+    {
+      "id": "alainjobart-google",
+      "target": "google",
+      "source": "alainjobart"
+    },
+    {
+      "id": "alanmyrvold-google",
+      "target": "google",
+      "source": "alanmyrvold"
+    },
+    {
+      "id": "albaloo-google",
+      "target": "google",
+      "source": "albaloo"
+    },
+    {
+      "id": "alex-mohr-google",
+      "target": "google",
+      "source": "alex-mohr"
+    },
+    {
+      "id": "alxhub-google",
+      "target": "google",
+      "source": "alxhub"
+    },
+    {
+      "id": "AnashOommen-google",
+      "target": "google",
+      "source": "AnashOommen"
+    },
+    {
+      "id": "andrewpollock-google",
+      "target": "google",
+      "source": "andrewpollock"
+    },
+    {
+      "id": "anudeepsai-google",
+      "target": "google",
+      "source": "anudeepsai"
+    },
+    {
+      "id": "apresta-google",
+      "target": "google",
+      "source": "apresta"
+    },
+    {
+      "id": "arnar-google",
+      "target": "google",
+      "source": "arnar"
+    },
+    {
+      "id": "arv-google",
+      "target": "google",
+      "source": "arv"
+    },
+    {
+      "id": "ascherkus-google",
+      "target": "google",
+      "source": "ascherkus"
+    },
+    {
+      "id": "asedeno-google",
+      "target": "google",
+      "source": "asedeno"
+    },
+    {
+      "id": "atahiri80-google",
+      "target": "google",
+      "source": "atahiri80"
+    },
+    {
+      "id": "bamnet-google",
+      "target": "google",
+      "source": "bamnet"
+    },
+    {
+      "id": "bcat-google",
+      "target": "google",
+      "source": "bcat"
+    },
+    {
+      "id": "beaufortfrancois-google",
+      "target": "google",
+      "source": "beaufortfrancois"
+    },
+    {
+      "id": "behdad-google",
+      "target": "google",
+      "source": "behdad"
+    },
+    {
+      "id": "belm0-google",
+      "target": "google",
+      "source": "belm0"
+    },
+    {
+      "id": "ben-clayton-google",
+      "target": "google",
+      "source": "ben-clayton"
+    },
+    {
+      "id": "bensonk-google",
+      "target": "google",
+      "source": "bensonk"
+    },
+    {
+      "id": "benvanik-google",
+      "target": "google",
+      "source": "benvanik"
+    },
+    {
+      "id": "bgilmore-google",
+      "target": "google",
+      "source": "bgilmore"
+    },
+    {
+      "id": "bileschi-google",
+      "target": "google",
+      "source": "bileschi"
+    },
+    {
+      "id": "billnapier-google",
+      "target": "google",
+      "source": "billnapier"
+    },
+    {
+      "id": "bjchambers-google",
+      "target": "google",
+      "source": "bjchambers"
+    },
+    {
+      "id": "BlackHC-google",
+      "target": "google",
+      "source": "BlackHC"
+    },
+    {
+      "id": "blueandgold-google",
+      "target": "google",
+      "source": "blueandgold"
+    },
+    {
+      "id": "bnkuhn-google",
+      "target": "google",
+      "source": "bnkuhn"
+    },
+    {
+      "id": "Bram---google",
+      "target": "google",
+      "source": "Bram--"
+    },
+    {
+      "id": "brendankenny-google",
+      "target": "google",
+      "source": "brendankenny"
+    },
+    {
+      "id": "briandorsey-google",
+      "target": "google",
+      "source": "briandorsey"
+    },
+    {
+      "id": "brisbink-google",
+      "target": "google",
+      "source": "brisbink"
+    },
+    {
+      "id": "brnndnn-google",
+      "target": "google",
+      "source": "brnndnn"
+    },
+    {
+      "id": "broady-google",
+      "target": "google",
+      "source": "broady"
+    },
+    {
+      "id": "bstpierr-google",
+      "target": "google",
+      "source": "bstpierr"
+    },
+    {
+      "id": "btco-google",
+      "target": "google",
+      "source": "btco"
+    },
+    {
+      "id": "btford-google",
+      "target": "google",
+      "source": "btford"
+    },
+    {
+      "id": "BurlapRobot-google",
+      "target": "google",
+      "source": "BurlapRobot"
+    },
+    {
+      "id": "byee01-google",
+      "target": "google",
+      "source": "byee01"
+    },
+    {
+      "id": "cdibona-google",
+      "target": "google",
+      "source": "cdibona"
+    },
+    {
+      "id": "cgdecker-google",
+      "target": "google",
+      "source": "cgdecker"
+    },
+    {
+      "id": "cgrushko-google",
+      "target": "google",
+      "source": "cgrushko"
+    },
+    {
+      "id": "chinmaygarde-google",
+      "target": "google",
+      "source": "chinmaygarde"
+    },
+    {
+      "id": "chirags-google",
+      "target": "google",
+      "source": "chirags"
+    },
+    {
+      "id": "chrsmith-google",
+      "target": "google",
+      "source": "chrsmith"
+    },
+    {
+      "id": "chuckhays-google",
+      "target": "google",
+      "source": "chuckhays"
+    },
+    {
+      "id": "claudiocherubino-google",
+      "target": "google",
+      "source": "claudiocherubino"
+    },
+    {
+      "id": "clelland-google",
+      "target": "google",
+      "source": "clelland"
+    },
+    {
+      "id": "cmei-google",
+      "target": "google",
+      "source": "cmei"
+    },
+    {
+      "id": "codedread-google",
+      "target": "google",
+      "source": "codedread"
+    },
+    {
+      "id": "cpovirk-google",
+      "target": "google",
+      "source": "cpovirk"
+    },
+    {
+      "id": "cramforce-google",
+      "target": "google",
+      "source": "cramforce"
+    },
+    {
+      "id": "crowell-google",
+      "target": "google",
+      "source": "crowell"
+    },
+    {
+      "id": "csmith-google",
+      "target": "google",
+      "source": "csmith"
+    },
+    {
+      "id": "ctiller-google",
+      "target": "google",
+      "source": "ctiller"
+    },
+    {
+      "id": "cyberkni-google",
+      "target": "google",
+      "source": "cyberkni"
+    },
+    {
+      "id": "CydeWeys-google",
+      "target": "google",
+      "source": "CydeWeys"
+    },
+    {
+      "id": "d9n-google",
+      "target": "google",
+      "source": "d9n"
+    },
+    {
+      "id": "danacton-google",
+      "target": "google",
+      "source": "danacton"
+    },
+    {
+      "id": "danholevoet-google",
+      "target": "google",
+      "source": "danholevoet"
+    },
+    {
+      "id": "DanielHeck-google",
+      "target": "google",
+      "source": "DanielHeck"
+    },
+    {
+      "id": "danluu-google",
+      "target": "google",
+      "source": "danluu"
+    },
+    {
+      "id": "DarthGandalf-google",
+      "target": "google",
+      "source": "DarthGandalf"
+    },
+    {
+      "id": "dave-2-google",
+      "target": "google",
+      "source": "dave-2"
+    },
+    {
+      "id": "davelab6-google",
+      "target": "google",
+      "source": "davelab6"
+    },
+    {
+      "id": "david-gudeman-google",
+      "target": "google",
+      "source": "david-gudeman"
+    },
+    {
+      "id": "davidpbaker-google",
+      "target": "google",
+      "source": "davidpbaker"
+    },
+    {
+      "id": "davidzchen-google",
+      "target": "google",
+      "source": "davidzchen"
+    },
+    {
+      "id": "dcower-google",
+      "target": "google",
+      "source": "dcower"
+    },
+    {
+      "id": "deflaux-google",
+      "target": "google",
+      "source": "deflaux"
+    },
+    {
+      "id": "dgay42-google",
+      "target": "google",
+      "source": "dgay42"
+    },
+    {
+      "id": "dionyziz-google",
+      "target": "google",
+      "source": "dionyziz"
+    },
+    {
+      "id": "dklimkin-google",
+      "target": "google",
+      "source": "dklimkin"
+    },
+    {
+      "id": "dlc-google",
+      "target": "google",
+      "source": "dlc"
+    },
+    {
+      "id": "dlowe-net-google",
+      "target": "google",
+      "source": "dlowe-net"
+    },
+    {
+      "id": "doherty-google",
+      "target": "google",
+      "source": "doherty"
+    },
+    {
+      "id": "dominichamon-google",
+      "target": "google",
+      "source": "dominichamon"
+    },
+    {
+      "id": "donmccurdy-google",
+      "target": "google",
+      "source": "donmccurdy"
+    },
+    {
+      "id": "dougfelt-google",
+      "target": "google",
+      "source": "dougfelt"
+    },
+    {
+      "id": "DrMarcII-google",
+      "target": "google",
+      "source": "DrMarcII"
+    },
+    {
+      "id": "dsaff-google",
+      "target": "google",
+      "source": "dsaff"
+    },
+    {
+      "id": "dsandler-google",
+      "target": "google",
+      "source": "dsandler"
+    },
+    {
+      "id": "dsymonds-google",
+      "target": "google",
+      "source": "dsymonds"
+    },
+    {
+      "id": "eaenet-google",
+      "target": "google",
+      "source": "eaenet"
+    },
+    {
+      "id": "eakuefner-google",
+      "target": "google",
+      "source": "eakuefner"
+    },
+    {
+      "id": "ebidel-google",
+      "target": "google",
+      "source": "ebidel"
+    },
+    {
+      "id": "eddavisson-google",
+      "target": "google",
+      "source": "eddavisson"
+    },
+    {
+      "id": "eglaysher-google",
+      "target": "google",
+      "source": "eglaysher"
+    },
+    {
+      "id": "ehsane-google",
+      "target": "google",
+      "source": "ehsane"
+    },
+    {
+      "id": "ekuefler-google",
+      "target": "google",
+      "source": "ekuefler"
+    },
+    {
+      "id": "EliSchleifer-google",
+      "target": "google",
+      "source": "EliSchleifer"
+    },
+    {
+      "id": "elly-google",
+      "target": "google",
+      "source": "elly"
+    },
+    {
+      "id": "entaq-google",
+      "target": "google",
+      "source": "entaq"
+    },
+    {
+      "id": "EranGabber-google",
+      "target": "google",
+      "source": "EranGabber"
+    },
+    {
+      "id": "ericpruitt-google",
+      "target": "google",
+      "source": "ericpruitt"
+    },
+    {
+      "id": "ericwilligers-google",
+      "target": "google",
+      "source": "ericwilligers"
+    },
+    {
+      "id": "erjohnso-google",
+      "target": "google",
+      "source": "erjohnso"
+    },
+    {
+      "id": "ethanbao-google",
+      "target": "google",
+      "source": "ethanbao"
+    },
+    {
+      "id": "ewiseblatt-google",
+      "target": "google",
+      "source": "ewiseblatt"
+    },
+    {
+      "id": "fabienviger-google",
+      "target": "google",
+      "source": "fabienviger"
+    },
+    {
+      "id": "fabioy-google",
+      "target": "google",
+      "source": "fabioy"
+    },
+    {
+      "id": "fadden-google",
+      "target": "google",
+      "source": "fadden"
+    },
+    {
+      "id": "fhoffa-google",
+      "target": "google",
+      "source": "fhoffa"
+    },
+    {
+      "id": "fischman-google",
+      "target": "google",
+      "source": "fischman"
+    },
+    {
+      "id": "Flameeyes-google",
+      "target": "google",
+      "source": "Flameeyes"
+    },
+    {
+      "id": "fmeawad-google",
+      "target": "google",
+      "source": "fmeawad"
+    },
+    {
+      "id": "fontguy-google",
+      "target": "google",
+      "source": "fontguy"
+    },
+    {
+      "id": "fredsa-google",
+      "target": "google",
+      "source": "fredsa"
+    },
+    {
+      "id": "fserb-google",
+      "target": "google",
+      "source": "fserb"
+    },
+    {
+      "id": "ftowl-google",
+      "target": "google",
+      "source": "ftowl"
+    },
+    {
+      "id": "garretrieger-google",
+      "target": "google",
+      "source": "garretrieger"
+    },
+    {
+      "id": "garrickevans-google",
+      "target": "google",
+      "source": "garrickevans"
+    },
+    {
+      "id": "gathem-google",
+      "target": "google",
+      "source": "gathem"
+    },
+    {
+      "id": "gavinp-google",
+      "target": "google",
+      "source": "gavinp"
+    },
+    {
+      "id": "gdewan-google",
+      "target": "google",
+      "source": "gdewan"
+    },
+    {
+      "id": "geoffromer-google",
+      "target": "google",
+      "source": "geoffromer"
+    },
+    {
+      "id": "georgep888-google",
+      "target": "google",
+      "source": "georgep888"
+    },
+    {
+      "id": "ggogolowicz-google",
+      "target": "google",
+      "source": "ggogolowicz"
+    },
+    {
+      "id": "GHF-google",
+      "target": "google",
+      "source": "GHF"
+    },
+    {
+      "id": "gk5885-google",
+      "target": "google",
+      "source": "gk5885"
+    },
+    {
+      "id": "gkdn-google",
+      "target": "google",
+      "source": "gkdn"
+    },
+    {
+      "id": "gleber-google",
+      "target": "google",
+      "source": "gleber"
+    },
+    {
+      "id": "gmrobbins-google",
+      "target": "google",
+      "source": "gmrobbins"
+    },
+    {
+      "id": "gnachman-google",
+      "target": "google",
+      "source": "gnachman"
+    },
+    {
+      "id": "goderbauer-google",
+      "target": "google",
+      "source": "goderbauer"
+    },
+    {
+      "id": "google-admin-google",
+      "target": "google",
+      "source": "google-admin"
+    },
+    {
+      "id": "gpshead-google",
+      "target": "google",
+      "source": "gpshead"
+    },
+    {
+      "id": "grabks-google",
+      "target": "google",
+      "source": "grabks"
+    },
+    {
+      "id": "grano-google",
+      "target": "google",
+      "source": "grano"
+    },
+    {
+      "id": "grimreaper-google",
+      "target": "google",
+      "source": "grimreaper"
+    },
+    {
+      "id": "guywithkeyboard-google",
+      "target": "google",
+      "source": "guywithkeyboard"
+    },
+    {
+      "id": "gwelymernans-google",
+      "target": "google",
+      "source": "gwelymernans"
+    },
+    {
+      "id": "gwvo-google",
+      "target": "google",
+      "source": "gwvo"
+    },
+    {
+      "id": "hannahtck-google",
+      "target": "google",
+      "source": "hannahtck"
+    },
+    {
+      "id": "hanwen-google",
+      "target": "google",
+      "source": "hanwen"
+    },
+    {
+      "id": "happygiraffe-google",
+      "target": "google",
+      "source": "happygiraffe"
+    },
+    {
+      "id": "hdurer-google",
+      "target": "google",
+      "source": "hdurer"
+    },
+    {
+      "id": "hendrikwagenaar-google",
+      "target": "google",
+      "source": "hendrikwagenaar"
+    },
+    {
+      "id": "henriquez-google",
+      "target": "google",
+      "source": "henriquez"
+    },
+    {
+      "id": "HimanshuVasishth-google",
+      "target": "google",
+      "source": "HimanshuVasishth"
+    },
+    {
+      "id": "hoshir-google",
+      "target": "google",
+      "source": "hoshir"
+    },
+    {
+      "id": "huichen-google",
+      "target": "google",
+      "source": "huichen"
+    },
+    {
+      "id": "iam-google",
+      "target": "google",
+      "source": "iam"
+    },
+    {
+      "id": "ianbarber-google",
+      "target": "google",
+      "source": "ianbarber"
+    },
+    {
+      "id": "ianlancetaylor-google",
+      "target": "google",
+      "source": "ianlancetaylor"
+    },
+    {
+      "id": "iein-google",
+      "target": "google",
+      "source": "iein"
+    },
+    {
+      "id": "igrigorik-google",
+      "target": "google",
+      "source": "igrigorik"
+    },
+    {
+      "id": "ihmccreery-google",
+      "target": "google",
+      "source": "ihmccreery"
+    },
+    {
+      "id": "iislucas-google",
+      "target": "google",
+      "source": "iislucas"
+    },
+    {
+      "id": "ImJasonH-google",
+      "target": "google",
+      "source": "ImJasonH"
+    },
+    {
+      "id": "ipopov-google",
+      "target": "google",
+      "source": "ipopov"
+    },
+    {
+      "id": "iqs-google",
+      "target": "google",
+      "source": "iqs"
+    },
+    {
+      "id": "ivant-google",
+      "target": "google",
+      "source": "ivant"
+    },
+    {
+      "id": "ixdy-google",
+      "target": "google",
+      "source": "ixdy"
+    },
+    {
+      "id": "jackgr-google",
+      "target": "google",
+      "source": "jackgr"
+    },
+    {
+      "id": "jacobmarble-google",
+      "target": "google",
+      "source": "jacobmarble"
+    },
+    {
+      "id": "jamesgk-google",
+      "target": "google",
+      "source": "jamesgk"
+    },
+    {
+      "id": "japacible-google",
+      "target": "google",
+      "source": "japacible"
+    },
+    {
+      "id": "jason9t-google",
+      "target": "google",
+      "source": "jason9t"
+    },
+    {
+      "id": "jayantkolhe-google",
+      "target": "google",
+      "source": "jayantkolhe"
+    },
+    {
+      "id": "jaybe38-google",
+      "target": "google",
+      "source": "jaybe38"
+    },
+    {
+      "id": "jdarpinian-google",
+      "target": "google",
+      "source": "jdarpinian"
+    },
+    {
+      "id": "jdgreenberg-google",
+      "target": "google",
+      "source": "jdgreenberg"
+    },
+    {
+      "id": "jeffbcross-google",
+      "target": "google",
+      "source": "jeffbcross"
+    },
+    {
+      "id": "jeffkaufman-google",
+      "target": "google",
+      "source": "jeffkaufman"
+    },
+    {
+      "id": "jeffmendoza-google",
+      "target": "google",
+      "source": "jeffmendoza"
+    },
+    {
+      "id": "jeffposnick-google",
+      "target": "google",
+      "source": "jeffposnick"
+    },
+    {
+      "id": "jeremyje-google",
+      "target": "google",
+      "source": "jeremyje"
+    },
+    {
+      "id": "jeremywhelchel-google",
+      "target": "google",
+      "source": "jeremywhelchel"
+    },
+    {
+      "id": "Jessie-Newman-google",
+      "target": "google",
+      "source": "Jessie-Newman"
+    },
+    {
+      "id": "jfroy-google",
+      "target": "google",
+      "source": "jfroy"
+    },
+    {
+      "id": "jimhug-google",
+      "target": "google",
+      "source": "jimhug"
+    },
+    {
+      "id": "jimper-google",
+      "target": "google",
+      "source": "jimper"
+    },
+    {
+      "id": "jinxos-google",
+      "target": "google",
+      "source": "jinxos"
+    },
+    {
+      "id": "jjinux-google",
+      "target": "google",
+      "source": "jjinux"
+    },
+    {
+      "id": "jkaplowitz-google",
+      "target": "google",
+      "source": "jkaplowitz"
+    },
+    {
+      "id": "jklein24-google",
+      "target": "google",
+      "source": "jklein24"
+    },
+    {
+      "id": "jkomoros-google",
+      "target": "google",
+      "source": "jkomoros"
+    },
+    {
+      "id": "jlivni-google",
+      "target": "google",
+      "source": "jlivni"
+    },
+    {
+      "id": "jmr-google",
+      "target": "google",
+      "source": "jmr"
+    },
+    {
+      "id": "jmstriegel-google",
+      "target": "google",
+      "source": "jmstriegel"
+    },
+    {
+      "id": "jmwaura-google",
+      "target": "google",
+      "source": "jmwaura"
+    },
+    {
+      "id": "joachimmetz-google",
+      "target": "google",
+      "source": "joachimmetz"
+    },
+    {
+      "id": "joefernandez-google",
+      "target": "google",
+      "source": "joefernandez"
+    },
+    {
+      "id": "joeloyj-google",
+      "target": "google",
+      "source": "joeloyj"
+    },
+    {
+      "id": "joeyyang-google",
+      "target": "google",
+      "source": "joeyyang"
+    },
+    {
+      "id": "johndmulhausen-google",
+      "target": "google",
+      "source": "johndmulhausen"
+    },
+    {
+      "id": "johnfargo-google",
+      "target": "google",
+      "source": "johnfargo"
+    },
+    {
+      "id": "johnheroy-google",
+      "target": "google",
+      "source": "johnheroy"
+    },
+    {
+      "id": "johnwilkes-google",
+      "target": "google",
+      "source": "johnwilkes"
+    },
+    {
+      "id": "jonparrott-google",
+      "target": "google",
+      "source": "jonparrott"
+    },
+    {
+      "id": "jpatokal-google",
+      "target": "google",
+      "source": "jpatokal"
+    },
+    {
+      "id": "jpevarnek-google",
+      "target": "google",
+      "source": "jpevarnek"
+    },
+    {
+      "id": "jpgaribotti-google",
+      "target": "google",
+      "source": "jpgaribotti"
+    },
+    {
+      "id": "jsanmiya-google",
+      "target": "google",
+      "source": "jsanmiya"
+    },
+    {
+      "id": "jskeet-google",
+      "target": "google",
+      "source": "jskeet"
+    },
+    {
+      "id": "jterrace-google",
+      "target": "google",
+      "source": "jterrace"
+    },
+    {
+      "id": "jtmcdole-google",
+      "target": "google",
+      "source": "jtmcdole"
+    },
+    {
+      "id": "juliaferraioli-google",
+      "target": "google",
+      "source": "juliaferraioli"
+    },
+    {
+      "id": "juliantoledo-google",
+      "target": "google",
+      "source": "juliantoledo"
+    },
+    {
+      "id": "juliemr-google",
+      "target": "google",
+      "source": "juliemr"
+    },
+    {
+      "id": "jyasskin-google",
+      "target": "google",
+      "source": "jyasskin"
+    },
+    {
+      "id": "jzacsh-google",
+      "target": "google",
+      "source": "jzacsh"
+    },
+    {
+      "id": "kaladron-google",
+      "target": "google",
+      "source": "kaladron"
+    },
+    {
+      "id": "kalakris-google",
+      "target": "google",
+      "source": "kalakris"
+    },
+    {
+      "id": "kathringh-google",
+      "target": "google",
+      "source": "kathringh"
+    },
+    {
+      "id": "keroserene-google",
+      "target": "google",
+      "source": "keroserene"
+    },
+    {
+      "id": "kerryrodden-google",
+      "target": "google",
+      "source": "kerryrodden"
+    },
+    {
+      "id": "keyboardsurfer-google",
+      "target": "google",
+      "source": "keyboardsurfer"
+    },
+    {
+      "id": "kjacqmin-google",
+      "target": "google",
+      "source": "kjacqmin"
+    },
+    {
+      "id": "klausw-google",
+      "target": "google",
+      "source": "klausw"
+    },
+    {
+      "id": "klepikov-google",
+      "target": "google",
+      "source": "klepikov"
+    },
+    {
+      "id": "kluever-google",
+      "target": "google",
+      "source": "kluever"
+    },
+    {
+      "id": "kolmodin-google",
+      "target": "google",
+      "source": "kolmodin"
+    },
+    {
+      "id": "korfuri-google",
+      "target": "google",
+      "source": "korfuri"
+    },
+    {
+      "id": "krousey-google",
+      "target": "google",
+      "source": "krousey"
+    },
+    {
+      "id": "kruton-google",
+      "target": "google",
+      "source": "kruton"
+    },
+    {
+      "id": "kuccello-google",
+      "target": "google",
+      "source": "kuccello"
+    },
+    {
+      "id": "KurtSteinkraus-google",
+      "target": "google",
+      "source": "KurtSteinkraus"
+    },
+    {
+      "id": "kwiberg-google",
+      "target": "google",
+      "source": "kwiberg"
+    },
+    {
+      "id": "leeschumacher-google",
+      "target": "google",
+      "source": "leeschumacher"
+    },
+    {
+      "id": "lgarron-google",
+      "target": "google",
+      "source": "lgarron"
+    },
+    {
+      "id": "ludoch-google",
+      "target": "google",
+      "source": "ludoch"
+    },
+    {
+      "id": "lyntco-google",
+      "target": "google",
+      "source": "lyntco"
+    },
+    {
+      "id": "mabouza-google",
+      "target": "google",
+      "source": "mabouza"
+    },
+    {
+      "id": "malcolmr-google",
+      "target": "google",
+      "source": "malcolmr"
+    },
+    {
+      "id": "manastungare-google",
+      "target": "google",
+      "source": "manastungare"
+    },
+    {
+      "id": "mangini-google",
+      "target": "google",
+      "source": "mangini"
+    },
+    {
+      "id": "marcacohen-google",
+      "target": "google",
+      "source": "marcacohen"
+    },
+    {
+      "id": "marcja-google",
+      "target": "google",
+      "source": "marcja"
+    },
+    {
+      "id": "marcmerlin-google",
+      "target": "google",
+      "source": "marcmerlin"
+    },
+    {
+      "id": "markmcd-google",
+      "target": "google",
+      "source": "markmcd"
+    },
+    {
+      "id": "markpell-google",
+      "target": "google",
+      "source": "markpell"
+    },
+    {
+      "id": "marslangoog-google",
+      "target": "google",
+      "source": "marslangoog"
+    },
+    {
+      "id": "martine-google",
+      "target": "google",
+      "source": "martine"
+    },
+    {
+      "id": "martineo14-google",
+      "target": "google",
+      "source": "martineo14"
+    },
+    {
+      "id": "maruel-google",
+      "target": "google",
+      "source": "maruel"
+    },
+    {
+      "id": "MatrixFrog-google",
+      "target": "google",
+      "source": "MatrixFrog"
+    },
+    {
+      "id": "matsko-google",
+      "target": "google",
+      "source": "matsko"
+    },
+    {
+      "id": "mattstep-google",
+      "target": "google",
+      "source": "mattstep"
+    },
+    {
+      "id": "matvore-google",
+      "target": "google",
+      "source": "matvore"
+    },
+    {
+      "id": "mauimauer-google",
+      "target": "google",
+      "source": "mauimauer"
+    },
+    {
+      "id": "maurerj-google",
+      "target": "google",
+      "source": "maurerj"
+    },
+    {
+      "id": "max99x-google",
+      "target": "google",
+      "source": "max99x"
+    },
+    {
+      "id": "MaxRossGoogle-google",
+      "target": "google",
+      "source": "MaxRossGoogle"
+    },
+    {
+      "id": "mbrukman-google",
+      "target": "google",
+      "source": "mbrukman"
+    },
+    {
+      "id": "mcantos-google",
+      "target": "google",
+      "source": "mcantos"
+    },
+    {
+      "id": "mfschwartz-google",
+      "target": "google",
+      "source": "mfschwartz"
+    },
+    {
+      "id": "mhchen-google",
+      "target": "google",
+      "source": "mhchen"
+    },
+    {
+      "id": "michaelabdelmalek-google",
+      "target": "google",
+      "source": "michaelabdelmalek"
+    },
+    {
+      "id": "mikewest-google",
+      "target": "google",
+      "source": "mikewest"
+    },
+    {
+      "id": "mjansche-google",
+      "target": "google",
+      "source": "mjansche"
+    },
+    {
+      "id": "moduloprime-google",
+      "target": "google",
+      "source": "moduloprime"
+    },
+    {
+      "id": "Mononofu-google",
+      "target": "google",
+      "source": "Mononofu"
+    },
+    {
+      "id": "monsur-google",
+      "target": "google",
+      "source": "monsur"
+    },
+    {
+      "id": "MoritzT-google",
+      "target": "google",
+      "source": "MoritzT"
+    },
+    {
+      "id": "mounirlamouri-google",
+      "target": "google",
+      "source": "mounirlamouri"
+    },
+    {
+      "id": "mpd-google",
+      "target": "google",
+      "source": "mpd"
+    },
+    {
+      "id": "mthvedt-google",
+      "target": "google",
+      "source": "mthvedt"
+    },
+    {
+      "id": "mugurm-google",
+      "target": "google",
+      "source": "mugurm"
+    },
+    {
+      "id": "munutzer-google",
+      "target": "google",
+      "source": "munutzer"
+    },
+    {
+      "id": "murgatroid99-google",
+      "target": "google",
+      "source": "murgatroid99"
+    },
+    {
+      "id": "mzero-google",
+      "target": "google",
+      "source": "mzero"
+    },
+    {
+      "id": "nageshs-google",
+      "target": "google",
+      "source": "nageshs"
+    },
+    {
+      "id": "narphorium-google",
+      "target": "google",
+      "source": "narphorium"
+    },
+    {
+      "id": "natewilliford-google",
+      "target": "google",
+      "source": "natewilliford"
+    },
+    {
+      "id": "nedn-google",
+      "target": "google",
+      "source": "nedn"
+    },
+    {
+      "id": "NeilFraser-google",
+      "target": "google",
+      "source": "NeilFraser"
+    },
+    {
+      "id": "nettoyeurny-google",
+      "target": "google",
+      "source": "nettoyeurny"
+    },
+    {
+      "id": "nfaralli-google",
+      "target": "google",
+      "source": "nfaralli"
+    },
+    {
+      "id": "ngparker-google",
+      "target": "google",
+      "source": "ngparker"
+    },
+    {
+      "id": "nicolasgarnier-google",
+      "target": "google",
+      "source": "nicolasgarnier"
+    },
+    {
+      "id": "nikclayton-google",
+      "target": "google",
+      "source": "nikclayton"
+    },
+    {
+      "id": "nikhiljindal-google",
+      "target": "google",
+      "source": "nikhiljindal"
+    },
+    {
+      "id": "nlativy-google",
+      "target": "google",
+      "source": "nlativy"
+    },
+    {
+      "id": "nmittler-google",
+      "target": "google",
+      "source": "nmittler"
+    },
+    {
+      "id": "normanr-google",
+      "target": "google",
+      "source": "normanr"
+    },
+    {
+      "id": "nostrademons-google",
+      "target": "google",
+      "source": "nostrademons"
+    },
+    {
+      "id": "nvanbenschoten-google",
+      "target": "google",
+      "source": "nvanbenschoten"
+    },
+    {
+      "id": "oaktowner-google",
+      "target": "google",
+      "source": "oaktowner"
+    },
+    {
+      "id": "oalami-google",
+      "target": "google",
+      "source": "oalami"
+    },
+    {
+      "id": "opozo-google",
+      "target": "google",
+      "source": "opozo"
+    },
+    {
+      "id": "originaldon-google",
+      "target": "google",
+      "source": "originaldon"
+    },
+    {
+      "id": "oscardelben-google",
+      "target": "google",
+      "source": "oscardelben"
+    },
+    {
+      "id": "palladius-google",
+      "target": "google",
+      "source": "palladius"
+    },
+    {
+      "id": "paulirish-google",
+      "target": "google",
+      "source": "paulirish"
+    },
+    {
+      "id": "paullewis-google",
+      "target": "google",
+      "source": "paullewis"
+    },
+    {
+      "id": "paulrossman-google",
+      "target": "google",
+      "source": "paulrossman"
+    },
+    {
+      "id": "pavelgj-google",
+      "target": "google",
+      "source": "pavelgj"
+    },
+    {
+      "id": "petele-google",
+      "target": "google",
+      "source": "petele"
+    },
+    {
+      "id": "pgenera-google",
+      "target": "google",
+      "source": "pgenera"
+    },
+    {
+      "id": "pgeorgi-google",
+      "target": "google",
+      "source": "pgeorgi"
+    },
+    {
+      "id": "phajdan-google",
+      "target": "google",
+      "source": "phajdan"
+    },
+    {
+      "id": "philipwalton-google",
+      "target": "google",
+      "source": "philipwalton"
+    },
+    {
+      "id": "pkern-google",
+      "target": "google",
+      "source": "pkern"
+    },
+    {
+      "id": "pleroy-google",
+      "target": "google",
+      "source": "pleroy"
+    },
+    {
+      "id": "Plutor-google",
+      "target": "google",
+      "source": "Plutor"
+    },
+    {
+      "id": "pmaoki-google",
+      "target": "google",
+      "source": "pmaoki"
+    },
+    {
+      "id": "pmeenan-google",
+      "target": "google",
+      "source": "pmeenan"
+    },
+    {
+      "id": "ProgramMax-google",
+      "target": "google",
+      "source": "ProgramMax"
+    },
+    {
+      "id": "proppy-google",
+      "target": "google",
+      "source": "proppy"
+    },
+    {
+      "id": "pylaligand-google",
+      "target": "google",
+      "source": "pylaligand"
+    },
+    {
+      "id": "quisquous-google",
+      "target": "google",
+      "source": "quisquous"
+    },
+    {
+      "id": "rafaelw-google",
+      "target": "google",
+      "source": "rafaelw"
+    },
+    {
+      "id": "raggi-google",
+      "target": "google",
+      "source": "raggi"
+    },
+    {
+      "id": "rakyll-google",
+      "target": "google",
+      "source": "rakyll"
+    },
+    {
+      "id": "ramosian-glider-google",
+      "target": "google",
+      "source": "ramosian-glider"
+    },
+    {
+      "id": "ranjib-google",
+      "target": "google",
+      "source": "ranjib"
+    },
+    {
+      "id": "rcleveng-google",
+      "target": "google",
+      "source": "rcleveng"
+    },
+    {
+      "id": "rdcastro-google",
+      "target": "google",
+      "source": "rdcastro"
+    },
+    {
+      "id": "reinhillmann-google",
+      "target": "google",
+      "source": "reinhillmann"
+    },
+    {
+      "id": "remoun-google",
+      "target": "google",
+      "source": "remoun"
+    },
+    {
+      "id": "reprogrammer-google",
+      "target": "google",
+      "source": "reprogrammer"
+    },
+    {
+      "id": "rickyz-google",
+      "target": "google",
+      "source": "rickyz"
+    },
+    {
+      "id": "rictic-google",
+      "target": "google",
+      "source": "rictic"
+    },
+    {
+      "id": "RileyA-google",
+      "target": "google",
+      "source": "RileyA"
+    },
+    {
+      "id": "rltoscano-google",
+      "target": "google",
+      "source": "rltoscano"
+    },
+    {
+      "id": "rodmcchesney-google",
+      "target": "google",
+      "source": "rodmcchesney"
+    },
+    {
+      "id": "ronw-google",
+      "target": "google",
+      "source": "ronw"
+    },
+    {
+      "id": "roozbehp-google",
+      "target": "google",
+      "source": "roozbehp"
+    },
+    {
+      "id": "rpereirab-google",
+      "target": "google",
+      "source": "rpereirab"
+    },
+    {
+      "id": "rsamuelklatchko-google",
+      "target": "google",
+      "source": "rsamuelklatchko"
+    },
+    {
+      "id": "rsturgell-google",
+      "target": "google",
+      "source": "rsturgell"
+    },
+    {
+      "id": "rybosome-google",
+      "target": "google",
+      "source": "rybosome"
+    },
+    {
+      "id": "s-lip-google",
+      "target": "google",
+      "source": "s-lip"
+    },
+    {
+      "id": "safarmer-google",
+      "target": "google",
+      "source": "safarmer"
+    },
+    {
+      "id": "saiyr-google",
+      "target": "google",
+      "source": "saiyr"
+    },
+    {
+      "id": "sam-mccall-google",
+      "target": "google",
+      "source": "sam-mccall"
+    },
+    {
+      "id": "samitolvanen-google",
+      "target": "google",
+      "source": "samitolvanen"
+    },
+    {
+      "id": "samliu-google",
+      "target": "google",
+      "source": "samliu"
+    },
+    {
+      "id": "sashalionheart-google",
+      "target": "google",
+      "source": "sashalionheart"
+    },
+    {
+      "id": "saxman-google",
+      "target": "google",
+      "source": "saxman"
+    },
+    {
+      "id": "seanlip-google",
+      "target": "google",
+      "source": "seanlip"
+    },
+    {
+      "id": "SeawardT-google",
+      "target": "google",
+      "source": "SeawardT"
+    },
+    {
+      "id": "sebastianbenz-google",
+      "target": "google",
+      "source": "sebastianbenz"
+    },
+    {
+      "id": "setjmp-google",
+      "target": "google",
+      "source": "setjmp"
+    },
+    {
+      "id": "sgoldfed-google",
+      "target": "google",
+      "source": "sgoldfed"
+    },
+    {
+      "id": "shahms-google",
+      "target": "google",
+      "source": "shahms"
+    },
+    {
+      "id": "shawnbuso-google",
+      "target": "google",
+      "source": "shawnbuso"
+    },
+    {
+      "id": "shicks-google",
+      "target": "google",
+      "source": "shicks"
+    },
+    {
+      "id": "shishkander-google",
+      "target": "google",
+      "source": "shishkander"
+    },
+    {
+      "id": "sigizmund-google",
+      "target": "google",
+      "source": "sigizmund"
+    },
+    {
+      "id": "silvolu-google",
+      "target": "google",
+      "source": "silvolu"
+    },
+    {
+      "id": "simonhatch-google",
+      "target": "google",
+      "source": "simonhatch"
+    },
+    {
+      "id": "sjkirby-google",
+      "target": "google",
+      "source": "sjkirby"
+    },
+    {
+      "id": "sjlangley-google",
+      "target": "google",
+      "source": "sjlangley"
+    },
+    {
+      "id": "SLaks-google",
+      "target": "google",
+      "source": "SLaks"
+    },
+    {
+      "id": "slightlyoff-google",
+      "target": "google",
+      "source": "slightlyoff"
+    },
+    {
+      "id": "sparkprime-google",
+      "target": "google",
+      "source": "sparkprime"
+    },
+    {
+      "id": "spearce-google",
+      "target": "google",
+      "source": "spearce"
+    },
+    {
+      "id": "speednoisemovement-google",
+      "target": "google",
+      "source": "speednoisemovement"
+    },
+    {
+      "id": "sqrrrl-google",
+      "target": "google",
+      "source": "sqrrrl"
+    },
+    {
+      "id": "SRabbelier-google",
+      "target": "google",
+      "source": "SRabbelier"
+    },
+    {
+      "id": "stanley-cheung-google",
+      "target": "google",
+      "source": "stanley-cheung"
+    },
+    {
+      "id": "stephenmcd-google",
+      "target": "google",
+      "source": "stephenmcd"
+    },
+    {
+      "id": "StevenEWright-google",
+      "target": "google",
+      "source": "StevenEWright"
+    },
+    {
+      "id": "stevogotchi-google",
+      "target": "google",
+      "source": "stevogotchi"
+    },
+    {
+      "id": "stfairy-google",
+      "target": "google",
+      "source": "stfairy"
+    },
+    {
+      "id": "stgpetrovic-google",
+      "target": "google",
+      "source": "stgpetrovic"
+    },
+    {
+      "id": "stinky2nine-google",
+      "target": "google",
+      "source": "stinky2nine"
+    },
+    {
+      "id": "strelow-google",
+      "target": "google",
+      "source": "strelow"
+    },
+    {
+      "id": "StuartReavley-google",
+      "target": "google",
+      "source": "StuartReavley"
+    },
+    {
+      "id": "susi-google",
+      "target": "google",
+      "source": "susi"
+    },
+    {
+      "id": "szym-google",
+      "target": "google",
+      "source": "szym"
+    },
+    {
+      "id": "tbetbetbe-google",
+      "target": "google",
+      "source": "tbetbetbe"
+    },
+    {
+      "id": "teeler-google",
+      "target": "google",
+      "source": "teeler"
+    },
+    {
+      "id": "tekgrrl-google",
+      "target": "google",
+      "source": "tekgrrl"
+    },
+    {
+      "id": "Temikus-google",
+      "target": "google",
+      "source": "Temikus"
+    },
+    {
+      "id": "terryma-google",
+      "target": "google",
+      "source": "terryma"
+    },
+    {
+      "id": "terryok-google",
+      "target": "google",
+      "source": "terryok"
+    },
+    {
+      "id": "tfiala-goog-google",
+      "target": "google",
+      "source": "tfiala-goog"
+    },
+    {
+      "id": "thagikura-google",
+      "target": "google",
+      "source": "thagikura"
+    },
+    {
+      "id": "thailyn-google",
+      "target": "google",
+      "source": "thailyn"
+    },
+    {
+      "id": "thobrla-google",
+      "target": "google",
+      "source": "thobrla"
+    },
+    {
+      "id": "Tilps-google",
+      "target": "google",
+      "source": "Tilps"
+    },
+    {
+      "id": "tmatsuo-google",
+      "target": "google",
+      "source": "tmatsuo"
+    },
+    {
+      "id": "tomayac-google",
+      "target": "google",
+      "source": "tomayac"
+    },
+    {
+      "id": "ToxicFrog-google",
+      "target": "google",
+      "source": "ToxicFrog"
+    },
+    {
+      "id": "tpryan-google",
+      "target": "google",
+      "source": "tpryan"
+    },
+    {
+      "id": "tstromberg-google",
+      "target": "google",
+      "source": "tstromberg"
+    },
+    {
+      "id": "unrepentantgeek-google",
+      "target": "google",
+      "source": "unrepentantgeek"
+    },
+    {
+      "id": "v8-google",
+      "target": "google",
+      "source": "v8"
+    },
+    {
+      "id": "verwaest-google",
+      "target": "google",
+      "source": "verwaest"
+    },
+    {
+      "id": "vonture-google",
+      "target": "google",
+      "source": "vonture"
+    },
+    {
+      "id": "vrandezo-google",
+      "target": "google",
+      "source": "vrandezo"
+    },
+    {
+      "id": "vzanotti-google",
+      "target": "google",
+      "source": "vzanotti"
+    },
+    {
+      "id": "wastl-google",
+      "target": "google",
+      "source": "wastl"
+    },
+    {
+      "id": "webskate101-google",
+      "target": "google",
+      "source": "webskate101"
+    },
+    {
+      "id": "wescpy-google",
+      "target": "google",
+      "source": "wescpy"
+    },
+    {
+      "id": "wibblymat-google",
+      "target": "google",
+      "source": "wibblymat"
+    },
+    {
+      "id": "willnorris-google",
+      "target": "google",
+      "source": "willnorris"
+    },
+    {
+      "id": "wrigri-google",
+      "target": "google",
+      "source": "wrigri"
+    },
+    {
+      "id": "xylo04-google",
+      "target": "google",
+      "source": "xylo04"
+    },
+    {
+      "id": "xyzzyz-google",
+      "target": "google",
+      "source": "xyzzyz"
+    },
+    {
+      "id": "yesthatguy-google",
+      "target": "google",
+      "source": "yesthatguy"
+    },
+    {
+      "id": "yjbanov-google",
+      "target": "google",
+      "source": "yjbanov"
+    },
+    {
+      "id": "yovadia12-google",
+      "target": "google",
+      "source": "yovadia12"
+    },
+    {
+      "id": "yukawa-google",
+      "target": "google",
+      "source": "yukawa"
+    },
+    {
+      "id": "zeptonaut-google",
+      "target": "google",
+      "source": "zeptonaut"
+    },
+    {
+      "id": "ziegs-google",
+      "target": "google",
+      "source": "ziegs"
+    },
+    {
+      "id": "ziyadm-google",
+      "target": "google",
+      "source": "ziyadm"
+    },
+    {
+      "id": "Zoramite-google",
+      "target": "google",
+      "source": "Zoramite"
+    },
+    {
+      "id": "zwilt-google",
+      "target": "google",
+      "source": "zwilt"
+    },
+    {
+      "id": "aarongable-luci",
+      "target": "luci",
+      "source": "aarongable"
+    },
+    {
+      "id": "aarossig-aichallenge",
+      "target": "aichallenge",
+      "source": "aarossig"
+    },
+    {
+      "id": "abahgat-bitletorg",
+      "target": "bitletorg",
+      "source": "abahgat"
+    },
+    {
+      "id": "abarth-whatwg",
+      "target": "whatwg",
+      "source": "abarth"
+    },
+    {
+      "id": "abbot-UCL",
+      "target": "UCL",
+      "source": "abbot"
+    },
+    {
+      "id": "abbot-grid4hpc",
+      "target": "grid4hpc",
+      "source": "abbot"
+    },
+    {
+      "id": "acdvorak-bdhero",
+      "target": "bdhero",
+      "source": "acdvorak"
+    },
+    {
+      "id": "acgessler-assimp",
+      "target": "assimp",
+      "source": "acgessler"
+    },
+    {
+      "id": "aehlig-ganeti",
+      "target": "ganeti",
+      "source": "aehlig"
+    },
+    {
+      "id": "agangloff-GoogleCloudPlatform",
+      "target": "GoogleCloudPlatform",
+      "source": "agangloff"
+    },
+    {
+      "id": "aghassemi-Polymer",
+      "target": "Polymer",
+      "source": "aghassemi"
+    },
+    {
+      "id": "ajessup-noosbox",
+      "target": "noosbox",
+      "source": "ajessup"
+    },
+    {
+      "id": "alainjobart-youtube",
+      "target": "youtube",
+      "source": "alainjobart"
+    },
+    {
+      "id": "AnashOommen-googleads",
+      "target": "googleads",
+      "source": "AnashOommen"
+    },
+    {
+      "id": "anudeepsai-Polymer",
+      "target": "Polymer",
+      "source": "anudeepsai"
+    },
+    {
+      "id": "anudeepsai-GoogleCloudPlatform",
+      "target": "GoogleCloudPlatform",
+      "source": "anudeepsai"
+    },
+    {
+      "id": "apresta-apache",
+      "target": "apache",
+      "source": "apresta"
+    },
+    {
+      "id": "apresta-facebook",
+      "target": "facebook",
+      "source": "apresta"
+    },
+    {
+      "id": "arnar-mochi",
+      "target": "mochi",
+      "source": "arnar"
+    },
+    {
+      "id": "arv-tc39",
+      "target": "tc39",
+      "source": "arv"
+    },
+    {
+      "id": "arv-Polymer",
+      "target": "Polymer",
+      "source": "arv"
+    },
+    {
+      "id": "asedeno-barnowl",
+      "target": "barnowl",
+      "source": "asedeno"
+    },
+    {
+      "id": "asedeno-sipb",
+      "target": "sipb",
+      "source": "asedeno"
+    },
+    {
+      "id": "asedeno-qitab",
+      "target": "qitab",
+      "source": "asedeno"
+    },
+    {
+      "id": "bamnet-wtg",
+      "target": "wtg",
+      "source": "bamnet"
+    },
+    {
+      "id": "bamnet-concerto",
+      "target": "concerto",
+      "source": "bamnet"
+    },
+    {
+      "id": "bamnet-innio",
+      "target": "innio",
+      "source": "bamnet"
+    },
+    {
+      "id": "bcat-CSC495",
+      "target": "CSC495",
+      "source": "bcat"
+    },
+    {
+      "id": "beaufortfrancois-GoogleChrome",
+      "target": "GoogleChrome",
+      "source": "beaufortfrancois"
+    },
+    {
+      "id": "behdad-GNOME",
+      "target": "GNOME",
+      "source": "behdad"
+    },
+    {
+      "id": "behdad-fontforge",
+      "target": "fontforge",
+      "source": "behdad"
+    },
+    {
+      "id": "behdad-googlei18n",
+      "target": "googlei18n",
+      "source": "behdad"
+    },
+    {
+      "id": "behdad-googlefonts",
+      "target": "googlefonts",
+      "source": "behdad"
+    },
+    {
+      "id": "bensonk-PANIC-Project",
+      "target": "PANIC-Project",
+      "source": "bensonk"
+    },
+    {
+      "id": "bensonk-GoogleCloudPlatform",
+      "target": "GoogleCloudPlatform",
+      "source": "bensonk"
+    },
+    {
+      "id": "brendankenny-GoogleChrome",
+      "target": "GoogleChrome",
+      "source": "brendankenny"
+    },
+    {
+      "id": "brendankenny-WebGLTools",
+      "target": "WebGLTools",
+      "source": "brendankenny"
+    },
+    {
+      "id": "brendankenny-googlemaps",
+      "target": "googlemaps",
+      "source": "brendankenny"
+    },
+    {
+      "id": "brendankenny-PolymerLabs",
+      "target": "PolymerLabs",
+      "source": "brendankenny"
+    },
+    {
+      "id": "briandorsey-GoogleCloudPlatform",
+      "target": "GoogleCloudPlatform",
+      "source": "briandorsey"
+    },
+    {
+      "id": "brisbink-GoogleCloudPlatform",
+      "target": "GoogleCloudPlatform",
+      "source": "brisbink"
+    },
+    {
+      "id": "broady-googlemaps",
+      "target": "googlemaps",
+      "source": "broady"
+    },
+    {
+      "id": "btford-angular",
+      "target": "angular",
+      "source": "btford"
+    },
+    {
+      "id": "btford-yeoman",
+      "target": "yeoman",
+      "source": "btford"
+    },
+    {
+      "id": "btford-karma-runner",
+      "target": "karma-runner",
+      "source": "btford"
+    },
+    {
+      "id": "btford-angularjs-in-action",
+      "target": "angularjs-in-action",
+      "source": "btford"
+    },
+    {
+      "id": "btford-UnicornConf",
+      "target": "UnicornConf",
+      "source": "btford"
+    },
+    {
+      "id": "btford-meatspaces",
+      "target": "meatspaces",
+      "source": "btford"
+    },
+    {
+      "id": "btford-deprecate",
+      "target": "deprecate",
+      "source": "btford"
+    },
+    {
+      "id": "btford-revisitors",
+      "target": "revisitors",
+      "source": "btford"
+    },
+    {
+      "id": "byee01-html5stuco",
+      "target": "html5stuco",
+      "source": "byee01"
+    },
+    {
+      "id": "byee01-TweetBeats",
+      "target": "TweetBeats",
+      "source": "byee01"
+    },
+    {
+      "id": "cdibona-GoogleCloudPlatform",
+      "target": "GoogleCloudPlatform",
+      "source": "cdibona"
+    },
+    {
+      "id": "chinmaygarde-apportable",
+      "target": "apportable",
+      "source": "chinmaygarde"
+    },
+    {
+      "id": "chuckhays-GoogleChrome",
+      "target": "GoogleChrome",
+      "source": "chuckhays"
+    },
+    {
+      "id": "chuckhays-webrtc",
+      "target": "webrtc",
+      "source": "chuckhays"
+    },
+    {
+      "id": "clelland-MobileChromeApps",
+      "target": "MobileChromeApps",
+      "source": "clelland"
+    },
+    {
+      "id": "cramforce-jsconf",
+      "target": "jsconf",
+      "source": "cramforce"
+    },
+    {
+      "id": "crowell-BUILDS-",
+      "target": "BUILDS-",
+      "source": "crowell"
+    },
+    {
+      "id": "crowell-pagespeed",
+      "target": "pagespeed",
+      "source": "crowell"
+    },
+    {
+      "id": "crowell-Algorithmix",
+      "target": "Algorithmix",
+      "source": "crowell"
+    },
+    {
+      "id": "csmith-DMDirc",
+      "target": "DMDirc",
+      "source": "csmith"
+    },
+    {
+      "id": "ctiller-grpc",
+      "target": "grpc",
+      "source": "ctiller"
+    },
+    {
+      "id": "danholevoet-GoogleCloudPlatform",
+      "target": "GoogleCloudPlatform",
+      "source": "danholevoet"
+    },
+    {
+      "id": "danluu-hackandtell",
+      "target": "hackandtell",
+      "source": "danluu"
+    },
+    {
+      "id": "danluu-recursecenter",
+      "target": "recursecenter",
+      "source": "danluu"
+    },
+    {
+      "id": "DarthGandalf-znc",
+      "target": "znc",
+      "source": "DarthGandalf"
+    },
+    {
+      "id": "DarthGandalf-cluenet",
+      "target": "cluenet",
+      "source": "DarthGandalf"
+    },
+    {
+      "id": "DarthGandalf-ircv3",
+      "target": "ircv3",
+      "source": "DarthGandalf"
+    },
+    {
+      "id": "davelab6-fontclod",
+      "target": "fontclod",
+      "source": "davelab6"
+    },
+    {
+      "id": "davelab6-fontforge",
+      "target": "fontforge",
+      "source": "davelab6"
+    },
+    {
+      "id": "davelab6-metapolator",
+      "target": "metapolator",
+      "source": "davelab6"
+    },
+    {
+      "id": "davelab6-librefonts",
+      "target": "librefonts",
+      "source": "davelab6"
+    },
+    {
+      "id": "davelab6-googlefonts",
+      "target": "googlefonts",
+      "source": "davelab6"
+    },
+    {
+      "id": "davidzchen-azkaban",
+      "target": "azkaban",
+      "source": "davidzchen"
+    },
+    {
+      "id": "davidzchen-linkedin",
+      "target": "linkedin",
+      "source": "davidzchen"
+    },
+    {
+      "id": "davidzchen-gersteinlab",
+      "target": "gersteinlab",
+      "source": "davidzchen"
+    },
+    {
+      "id": "davidzchen-EpicGames",
+      "target": "EpicGames",
+      "source": "davidzchen"
+    },
+    {
+      "id": "deflaux-Sage-Bionetworks",
+      "target": "Sage-Bionetworks",
+      "source": "deflaux"
+    },
+    {
+      "id": "deflaux-basespace",
+      "target": "basespace",
+      "source": "deflaux"
+    },
+    {
+      "id": "deflaux-GoogleCloudPlatform",
+      "target": "GoogleCloudPlatform",
+      "source": "deflaux"
+    },
+    {
+      "id": "deflaux-googlegenomics",
+      "target": "googlegenomics",
+      "source": "deflaux"
+    },
+    {
+      "id": "dgay42-tinyos",
+      "target": "tinyos",
+      "source": "dgay42"
+    },
+    {
+      "id": "dionyziz-kamibu",
+      "target": "kamibu",
+      "source": "dionyziz"
+    },
+    {
+      "id": "dionyziz-grnet",
+      "target": "grnet",
+      "source": "dionyziz"
+    },
+    {
+      "id": "dionyziz-darkwallet",
+      "target": "darkwallet",
+      "source": "dionyziz"
+    },
+    {
+      "id": "dionyziz-okTurtles",
+      "target": "okTurtles",
+      "source": "dionyziz"
+    },
+    {
+      "id": "dionyziz-OpenBazaar",
+      "target": "OpenBazaar",
+      "source": "dionyziz"
+    },
+    {
+      "id": "dlowe-net-TempusMUD",
+      "target": "TempusMUD",
+      "source": "dlowe-net"
+    },
+    {
+      "id": "doherty-MediaWiki-Bot",
+      "target": "MediaWiki-Bot",
+      "source": "doherty"
+    },
+    {
+      "id": "doherty-perl-doc-cats",
+      "target": "perl-doc-cats",
+      "source": "doherty"
+    },
+    {
+      "id": "doherty-marcel-maint",
+      "target": "marcel-maint",
+      "source": "doherty"
+    },
+    {
+      "id": "donmccurdy-openleap",
+      "target": "openleap",
+      "source": "donmccurdy"
+    },
+    {
+      "id": "donmccurdy-code4sac",
+      "target": "code4sac",
+      "source": "donmccurdy"
+    },
+    {
+      "id": "dsaff-junit-team",
+      "target": "junit-team",
+      "source": "dsaff"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "google",
+      "size": 3,
+      "y": 7.7934453758926026,
+      "x": -18.708297395685683,
+      "color": "rgb(200,20,20)",
+      "label": "google"
+    },
+    {
+      "id": "aarongable",
+      "size": 1,
+      "y": -17.362316625655538,
+      "x": -23.01484014671802,
+      "color": "rgb(20,20,200)",
+      "label": "aarongable"
+    },
+    {
+      "id": "aarossig",
+      "size": 1,
+      "y": -26.192160197992852,
+      "x": -24.98903683712197,
+      "color": "rgb(20,20,200)",
+      "label": "aarossig"
+    },
+    {
+      "id": "abahgat",
+      "size": 1,
+      "y": -47.855378518896075,
+      "x": 14.999563655788691,
+      "color": "rgb(20,20,200)",
+      "label": "abahgat"
+    },
+    {
+      "id": "abarth",
+      "size": 1,
+      "y": -43.97194421143479,
+      "x": -32.61417902881222,
+      "color": "rgb(20,20,200)",
+      "label": "abarth"
+    },
+    {
+      "id": "abbot",
+      "size": 1,
+      "y": -35.55089230947791,
+      "x": -17.6284974340971,
+      "color": "rgb(20,20,200)",
+      "label": "abbot"
+    },
+    {
+      "id": "acdvorak",
+      "size": 1,
+      "y": -6.666924418309641,
+      "x": -45.68137849004881,
+      "color": "rgb(20,20,200)",
+      "label": "acdvorak"
+    },
+    {
+      "id": "acgessler",
+      "size": 1,
+      "y": -27.10899952494725,
+      "x": 15.953603091253925,
+      "color": "rgb(20,20,200)",
+      "label": "acgessler"
+    },
+    {
+      "id": "aclements",
+      "size": 1,
+      "y": -32.53551834465759,
+      "x": 28.039483580124653,
+      "color": "rgb(20,20,200)",
+      "label": "aclements"
+    },
+    {
+      "id": "adilhn",
+      "size": 1,
+      "y": 21.68721212529647,
+      "x": 9.922234583406706,
+      "color": "rgb(20,20,200)",
+      "label": "adilhn"
+    },
+    {
+      "id": "adrifelt",
+      "size": 1,
+      "y": -0.7801498652457255,
+      "x": 36.25472974460098,
+      "color": "rgb(20,20,200)",
+      "label": "adrifelt"
+    },
+    {
+      "id": "aeckleder",
+      "size": 1,
+      "y": -43.49433371123202,
+      "x": -8.388374293906622,
+      "color": "rgb(20,20,200)",
+      "label": "aeckleder"
+    },
+    {
+      "id": "aehlig",
+      "size": 1,
+      "y": -18.370035464559997,
+      "x": -21.151357668740022,
+      "color": "rgb(20,20,200)",
+      "label": "aehlig"
+    },
+    {
+      "id": "agangloff",
+      "size": 1,
+      "y": 42.329124185636076,
+      "x": -36.398231644288686,
+      "color": "rgb(20,20,200)",
+      "label": "agangloff"
+    },
+    {
+      "id": "aghassemi",
+      "size": 1,
+      "y": -7.748469577936113,
+      "x": -18.508944184182184,
+      "color": "rgb(20,20,200)",
+      "label": "aghassemi"
+    },
+    {
+      "id": "agl",
+      "size": 1,
+      "y": -41.88354738388733,
+      "x": -6.0330623207214416,
+      "color": "rgb(20,20,200)",
+      "label": "agl"
+    },
+    {
+      "id": "ajessup",
+      "size": 1,
+      "y": 29.404128353949247,
+      "x": -37.16350587462723,
+      "color": "rgb(20,20,200)",
+      "label": "ajessup"
+    },
+    {
+      "id": "ajklein",
+      "size": 1,
+      "y": 24.240345838737227,
+      "x": 0.4300478572950581,
+      "color": "rgb(20,20,200)",
+      "label": "ajklein"
+    },
+    {
+      "id": "akalachman",
+      "size": 1,
+      "y": -39.63981972741312,
+      "x": 19.089502566282874,
+      "color": "rgb(20,20,200)",
+      "label": "akalachman"
+    },
+    {
+      "id": "alabiaga",
+      "size": 1,
+      "y": -42.81704056304258,
+      "x": 29.628503489076493,
+      "color": "rgb(20,20,200)",
+      "label": "alabiaga"
+    },
+    {
+      "id": "alainjobart",
+      "size": 1,
+      "y": 4.24605567067502,
+      "x": 17.687316951011354,
+      "color": "rgb(20,20,200)",
+      "label": "alainjobart"
+    },
+    {
+      "id": "alanmyrvold",
+      "size": 1,
+      "y": 20.40806445375715,
+      "x": -40.732393291962495,
+      "color": "rgb(20,20,200)",
+      "label": "alanmyrvold"
+    },
+    {
+      "id": "albaloo",
+      "size": 1,
+      "y": 20.392179485106425,
+      "x": 28.67224217836045,
+      "color": "rgb(20,20,200)",
+      "label": "albaloo"
+    },
+    {
+      "id": "alex-mohr",
+      "size": 1,
+      "y": 36.31246366356183,
+      "x": 26.42519406223714,
+      "color": "rgb(20,20,200)",
+      "label": "alex-mohr"
+    },
+    {
+      "id": "alxhub",
+      "size": 1,
+      "y": -2.516338944509286,
+      "x": 5.870914810875803,
+      "color": "rgb(20,20,200)",
+      "label": "alxhub"
+    },
+    {
+      "id": "AnashOommen",
+      "size": 1,
+      "y": -30.783917261195214,
+      "x": -40.34980878198301,
+      "color": "rgb(20,20,200)",
+      "label": "AnashOommen"
+    },
+    {
+      "id": "andrewpollock",
+      "size": 1,
+      "y": -5.882372623782338,
+      "x": 39.38538196898935,
+      "color": "rgb(20,20,200)",
+      "label": "andrewpollock"
+    },
+    {
+      "id": "anudeepsai",
+      "size": 1,
+      "y": -40.83368026740614,
+      "x": 46.74010154756401,
+      "color": "rgb(20,20,200)",
+      "label": "anudeepsai"
+    },
+    {
+      "id": "apresta",
+      "size": 1,
+      "y": 23.646634707680747,
+      "x": -21.564368809802936,
+      "color": "rgb(20,20,200)",
+      "label": "apresta"
+    },
+    {
+      "id": "arnar",
+      "size": 1,
+      "y": -16.626036589984963,
+      "x": -28.334552606861273,
+      "color": "rgb(20,20,200)",
+      "label": "arnar"
+    },
+    {
+      "id": "arv",
+      "size": 1,
+      "y": 43.69808761860989,
+      "x": 6.892289435130152,
+      "color": "rgb(20,20,200)",
+      "label": "arv"
+    },
+    {
+      "id": "ascherkus",
+      "size": 1,
+      "y": 40.882951988049214,
+      "x": -4.5019473505044445,
+      "color": "rgb(20,20,200)",
+      "label": "ascherkus"
+    },
+    {
+      "id": "asedeno",
+      "size": 1,
+      "y": 30.887035318427877,
+      "x": -15.231906054326537,
+      "color": "rgb(20,20,200)",
+      "label": "asedeno"
+    },
+    {
+      "id": "atahiri80",
+      "size": 1,
+      "y": -44.00918789107433,
+      "x": -36.24900539486586,
+      "color": "rgb(20,20,200)",
+      "label": "atahiri80"
+    },
+    {
+      "id": "bamnet",
+      "size": 1,
+      "y": 11.33798591564561,
+      "x": -35.688172008921406,
+      "color": "rgb(20,20,200)",
+      "label": "bamnet"
+    },
+    {
+      "id": "bcat",
+      "size": 1,
+      "y": -14.452310342000928,
+      "x": 44.65532052858899,
+      "color": "rgb(20,20,200)",
+      "label": "bcat"
+    },
+    {
+      "id": "beaufortfrancois",
+      "size": 1,
+      "y": 16.34503498738728,
+      "x": 37.092465754140164,
+      "color": "rgb(20,20,200)",
+      "label": "beaufortfrancois"
+    },
+    {
+      "id": "behdad",
+      "size": 1,
+      "y": 11.014927733230742,
+      "x": 40.00676124144398,
+      "color": "rgb(20,20,200)",
+      "label": "behdad"
+    },
+    {
+      "id": "belm0",
+      "size": 1,
+      "y": -40.83608335110921,
+      "x": -32.287941876410365,
+      "color": "rgb(20,20,200)",
+      "label": "belm0"
+    },
+    {
+      "id": "ben-clayton",
+      "size": 1,
+      "y": -35.18412082056188,
+      "x": 20.751582435348197,
+      "color": "rgb(20,20,200)",
+      "label": "ben-clayton"
+    },
+    {
+      "id": "bensonk",
+      "size": 1,
+      "y": -28.65970056257554,
+      "x": -5.192114170842679,
+      "color": "rgb(20,20,200)",
+      "label": "bensonk"
+    },
+    {
+      "id": "benvanik",
+      "size": 1,
+      "y": -47.96656269733525,
+      "x": 8.861811654511307,
+      "color": "rgb(20,20,200)",
+      "label": "benvanik"
+    },
+    {
+      "id": "bgilmore",
+      "size": 1,
+      "y": -20.337762213490073,
+      "x": -15.13523613147568,
+      "color": "rgb(20,20,200)",
+      "label": "bgilmore"
+    },
+    {
+      "id": "bileschi",
+      "size": 1,
+      "y": 33.11861746833645,
+      "x": -47.03088894601791,
+      "color": "rgb(20,20,200)",
+      "label": "bileschi"
+    },
+    {
+      "id": "billnapier",
+      "size": 1,
+      "y": 38.66181606113825,
+      "x": -26.891388247616167,
+      "color": "rgb(20,20,200)",
+      "label": "billnapier"
+    },
+    {
+      "id": "bjchambers",
+      "size": 1,
+      "y": 38.403888783868254,
+      "x": -23.826452507639452,
+      "color": "rgb(20,20,200)",
+      "label": "bjchambers"
+    },
+    {
+      "id": "BlackHC",
+      "size": 1,
+      "y": 25.28857542287662,
+      "x": 18.22325303235931,
+      "color": "rgb(20,20,200)",
+      "label": "BlackHC"
+    },
+    {
+      "id": "blueandgold",
+      "size": 1,
+      "y": -38.67750724447481,
+      "x": 41.356732144223514,
+      "color": "rgb(20,20,200)",
+      "label": "blueandgold"
+    },
+    {
+      "id": "bnkuhn",
+      "size": 1,
+      "y": -10.184675479511249,
+      "x": -35.69080441724287,
+      "color": "rgb(20,20,200)",
+      "label": "bnkuhn"
+    },
+    {
+      "id": "Bram--",
+      "size": 1,
+      "y": 43.18581569055195,
+      "x": -0.5077669834414564,
+      "color": "rgb(20,20,200)",
+      "label": "Bram--"
+    },
+    {
+      "id": "brendankenny",
+      "size": 1,
+      "y": -29.321891825361725,
+      "x": -13.471525424615137,
+      "color": "rgb(20,20,200)",
+      "label": "brendankenny"
+    },
+    {
+      "id": "briandorsey",
+      "size": 1,
+      "y": -39.60935917524792,
+      "x": -34.84402483137667,
+      "color": "rgb(20,20,200)",
+      "label": "briandorsey"
+    },
+    {
+      "id": "brisbink",
+      "size": 1,
+      "y": -32.946849950191776,
+      "x": 7.359686764370188,
+      "color": "rgb(20,20,200)",
+      "label": "brisbink"
+    },
+    {
+      "id": "brnndnn",
+      "size": 1,
+      "y": 4.79783156509459,
+      "x": 42.47119473723413,
+      "color": "rgb(20,20,200)",
+      "label": "brnndnn"
+    },
+    {
+      "id": "broady",
+      "size": 1,
+      "y": -19.36410566380381,
+      "x": -3.337673076735747,
+      "color": "rgb(20,20,200)",
+      "label": "broady"
+    },
+    {
+      "id": "bstpierr",
+      "size": 1,
+      "y": 43.587048040098225,
+      "x": 43.139072258822864,
+      "color": "rgb(20,20,200)",
+      "label": "bstpierr"
+    },
+    {
+      "id": "btco",
+      "size": 1,
+      "y": -5.8372465495310735,
+      "x": 26.171026085714573,
+      "color": "rgb(20,20,200)",
+      "label": "btco"
+    },
+    {
+      "id": "btford",
+      "size": 1,
+      "y": -19.288638493963827,
+      "x": -32.23365358109896,
+      "color": "rgb(20,20,200)",
+      "label": "btford"
+    },
+    {
+      "id": "BurlapRobot",
+      "size": 1,
+      "y": -16.179735887056943,
+      "x": 15.855602514093647,
+      "color": "rgb(20,20,200)",
+      "label": "BurlapRobot"
+    },
+    {
+      "id": "byee01",
+      "size": 1,
+      "y": -31.217946168199294,
+      "x": 22.292456263142014,
+      "color": "rgb(20,20,200)",
+      "label": "byee01"
+    },
+    {
+      "id": "cdibona",
+      "size": 1,
+      "y": 31.917648349776954,
+      "x": 21.059939454593916,
+      "color": "rgb(20,20,200)",
+      "label": "cdibona"
+    },
+    {
+      "id": "cgdecker",
+      "size": 1,
+      "y": 9.944628579739245,
+      "x": -38.941870610448504,
+      "color": "rgb(20,20,200)",
+      "label": "cgdecker"
+    },
+    {
+      "id": "cgrushko",
+      "size": 1,
+      "y": -22.04660189473192,
+      "x": 41.74603453572881,
+      "color": "rgb(20,20,200)",
+      "label": "cgrushko"
+    },
+    {
+      "id": "chinmaygarde",
+      "size": 1,
+      "y": -28.097479206695553,
+      "x": -3.8182574149491018,
+      "color": "rgb(20,20,200)",
+      "label": "chinmaygarde"
+    },
+    {
+      "id": "chirags",
+      "size": 1,
+      "y": 35.39615888424747,
+      "x": 10.986460518927586,
+      "color": "rgb(20,20,200)",
+      "label": "chirags"
+    },
+    {
+      "id": "chrsmith",
+      "size": 1,
+      "y": -23.63967862591703,
+      "x": 19.851457056841397,
+      "color": "rgb(20,20,200)",
+      "label": "chrsmith"
+    },
+    {
+      "id": "chuckhays",
+      "size": 1,
+      "y": -21.355743821979456,
+      "x": -12.676994116693741,
+      "color": "rgb(20,20,200)",
+      "label": "chuckhays"
+    },
+    {
+      "id": "claudiocherubino",
+      "size": 1,
+      "y": 21.000377431932677,
+      "x": -13.227935813857385,
+      "color": "rgb(20,20,200)",
+      "label": "claudiocherubino"
+    },
+    {
+      "id": "clelland",
+      "size": 1,
+      "y": 30.246629025109087,
+      "x": -10.256888113972614,
+      "color": "rgb(20,20,200)",
+      "label": "clelland"
+    },
+    {
+      "id": "cmei",
+      "size": 1,
+      "y": -24.4576240863317,
+      "x": -21.955086410473424,
+      "color": "rgb(20,20,200)",
+      "label": "cmei"
+    },
+    {
+      "id": "codedread",
+      "size": 1,
+      "y": -3.7732486261501847,
+      "x": 45.190214874435114,
+      "color": "rgb(20,20,200)",
+      "label": "codedread"
+    },
+    {
+      "id": "cpovirk",
+      "size": 1,
+      "y": -6.605999452352293,
+      "x": -29.357818029082992,
+      "color": "rgb(20,20,200)",
+      "label": "cpovirk"
+    },
+    {
+      "id": "cramforce",
+      "size": 1,
+      "y": -49.91735301242491,
+      "x": 27.317546071066516,
+      "color": "rgb(20,20,200)",
+      "label": "cramforce"
+    },
+    {
+      "id": "crowell",
+      "size": 1,
+      "y": 10.504951840627626,
+      "x": -29.40822039330716,
+      "color": "rgb(20,20,200)",
+      "label": "crowell"
+    },
+    {
+      "id": "csmith",
+      "size": 1,
+      "y": 37.8937958766101,
+      "x": -47.98610976717067,
+      "color": "rgb(20,20,200)",
+      "label": "csmith"
+    },
+    {
+      "id": "ctiller",
+      "size": 1,
+      "y": 49.225132966908916,
+      "x": -37.18686418052024,
+      "color": "rgb(20,20,200)",
+      "label": "ctiller"
+    },
+    {
+      "id": "cyberkni",
+      "size": 1,
+      "y": 45.053073204176386,
+      "x": 18.563062883499867,
+      "color": "rgb(20,20,200)",
+      "label": "cyberkni"
+    },
+    {
+      "id": "CydeWeys",
+      "size": 1,
+      "y": 16.382886372026945,
+      "x": 25.48249048862573,
+      "color": "rgb(20,20,200)",
+      "label": "CydeWeys"
+    },
+    {
+      "id": "d9n",
+      "size": 1,
+      "y": 49.186531431636936,
+      "x": -22.187884267285607,
+      "color": "rgb(20,20,200)",
+      "label": "d9n"
+    },
+    {
+      "id": "danacton",
+      "size": 1,
+      "y": -38.729806663770326,
+      "x": 24.93575274390855,
+      "color": "rgb(20,20,200)",
+      "label": "danacton"
+    },
+    {
+      "id": "danholevoet",
+      "size": 1,
+      "y": 43.53244432321428,
+      "x": 31.30333397553497,
+      "color": "rgb(20,20,200)",
+      "label": "danholevoet"
+    },
+    {
+      "id": "DanielHeck",
+      "size": 1,
+      "y": -11.203699523993691,
+      "x": -17.514105552784862,
+      "color": "rgb(20,20,200)",
+      "label": "DanielHeck"
+    },
+    {
+      "id": "danluu",
+      "size": 1,
+      "y": -25.47453849424898,
+      "x": -40.214494795062215,
+      "color": "rgb(20,20,200)",
+      "label": "danluu"
+    },
+    {
+      "id": "DarthGandalf",
+      "size": 1,
+      "y": -8.190160596629568,
+      "x": -11.42973550253268,
+      "color": "rgb(20,20,200)",
+      "label": "DarthGandalf"
+    },
+    {
+      "id": "dave-2",
+      "size": 1,
+      "y": -28.846053098889147,
+      "x": -17.38396063084778,
+      "color": "rgb(20,20,200)",
+      "label": "dave-2"
+    },
+    {
+      "id": "davelab6",
+      "size": 1,
+      "y": -0.3163755306768792,
+      "x": -16.642858488666604,
+      "color": "rgb(20,20,200)",
+      "label": "davelab6"
+    },
+    {
+      "id": "david-gudeman",
+      "size": 1,
+      "y": -17.535452865629928,
+      "x": -17.986069933022698,
+      "color": "rgb(20,20,200)",
+      "label": "david-gudeman"
+    },
+    {
+      "id": "davidpbaker",
+      "size": 1,
+      "y": -36.82766109070944,
+      "x": -41.64560193964847,
+      "color": "rgb(20,20,200)",
+      "label": "davidpbaker"
+    },
+    {
+      "id": "davidzchen",
+      "size": 1,
+      "y": -8.68175651923326,
+      "x": 6.665190507319807,
+      "color": "rgb(20,20,200)",
+      "label": "davidzchen"
+    },
+    {
+      "id": "dcower",
+      "size": 1,
+      "y": -49.56622456219032,
+      "x": -38.97530308745524,
+      "color": "rgb(20,20,200)",
+      "label": "dcower"
+    },
+    {
+      "id": "deflaux",
+      "size": 1,
+      "y": -39.34305572922064,
+      "x": -10.226989198748385,
+      "color": "rgb(20,20,200)",
+      "label": "deflaux"
+    },
+    {
+      "id": "dgay42",
+      "size": 1,
+      "y": 29.03093301465036,
+      "x": -2.34975101754722,
+      "color": "rgb(20,20,200)",
+      "label": "dgay42"
+    },
+    {
+      "id": "dionyziz",
+      "size": 1,
+      "y": 6.01979715604476,
+      "x": -34.6844932425743,
+      "color": "rgb(20,20,200)",
+      "label": "dionyziz"
+    },
+    {
+      "id": "dklimkin",
+      "size": 1,
+      "y": -4.141478091892047,
+      "x": 28.761415102578056,
+      "color": "rgb(20,20,200)",
+      "label": "dklimkin"
+    },
+    {
+      "id": "dlc",
+      "size": 1,
+      "y": -36.42624317391632,
+      "x": -37.07318251107093,
+      "color": "rgb(20,20,200)",
+      "label": "dlc"
+    },
+    {
+      "id": "dlowe-net",
+      "size": 1,
+      "y": -19.295883838496408,
+      "x": 19.861602340507787,
+      "color": "rgb(20,20,200)",
+      "label": "dlowe-net"
+    },
+    {
+      "id": "doherty",
+      "size": 1,
+      "y": 44.689210583096,
+      "x": -4.727725872335789,
+      "color": "rgb(20,20,200)",
+      "label": "doherty"
+    },
+    {
+      "id": "dominichamon",
+      "size": 1,
+      "y": -31.23391652912131,
+      "x": -9.798395983160312,
+      "color": "rgb(20,20,200)",
+      "label": "dominichamon"
+    },
+    {
+      "id": "donmccurdy",
+      "size": 1,
+      "y": -30.137666901446213,
+      "x": 49.89750335013102,
+      "color": "rgb(20,20,200)",
+      "label": "donmccurdy"
+    },
+    {
+      "id": "dougfelt",
+      "size": 1,
+      "y": 30.693084681847864,
+      "x": 29.04893187221515,
+      "color": "rgb(20,20,200)",
+      "label": "dougfelt"
+    },
+    {
+      "id": "DrMarcII",
+      "size": 1,
+      "y": -11.867114484591056,
+      "x": -2.388401453618208,
+      "color": "rgb(20,20,200)",
+      "label": "DrMarcII"
+    },
+    {
+      "id": "dsaff",
+      "size": 1,
+      "y": -32.909522836404626,
+      "x": 49.35108479411136,
+      "color": "rgb(20,20,200)",
+      "label": "dsaff"
+    },
+    {
+      "id": "dsandler",
+      "size": 1,
+      "y": 12.334425293273924,
+      "x": -40.05815746060601,
+      "color": "rgb(20,20,200)",
+      "label": "dsandler"
+    },
+    {
+      "id": "dsymonds",
+      "size": 1,
+      "y": 21.96143489655043,
+      "x": 17.339787690943993,
+      "color": "rgb(20,20,200)",
+      "label": "dsymonds"
+    },
+    {
+      "id": "eaenet",
+      "size": 1,
+      "y": -33.68730291942616,
+      "x": -43.7196151637237,
+      "color": "rgb(20,20,200)",
+      "label": "eaenet"
+    },
+    {
+      "id": "eakuefner",
+      "size": 1,
+      "y": -19.232020443858133,
+      "x": -2.9123028817373395,
+      "color": "rgb(20,20,200)",
+      "label": "eakuefner"
+    },
+    {
+      "id": "ebidel",
+      "size": 1,
+      "y": -32.16240737587877,
+      "x": -26.586958979530795,
+      "color": "rgb(20,20,200)",
+      "label": "ebidel"
+    },
+    {
+      "id": "eddavisson",
+      "size": 1,
+      "y": -48.3952065659199,
+      "x": 39.88985447191018,
+      "color": "rgb(20,20,200)",
+      "label": "eddavisson"
+    },
+    {
+      "id": "eglaysher",
+      "size": 1,
+      "y": -11.168176981215794,
+      "x": 11.590098161156682,
+      "color": "rgb(20,20,200)",
+      "label": "eglaysher"
+    },
+    {
+      "id": "ehsane",
+      "size": 1,
+      "y": -2.2923932430066287,
+      "x": 8.50160758854431,
+      "color": "rgb(20,20,200)",
+      "label": "ehsane"
+    },
+    {
+      "id": "ekuefler",
+      "size": 1,
+      "y": 22.48018449627864,
+      "x": -19.21431686132,
+      "color": "rgb(20,20,200)",
+      "label": "ekuefler"
+    },
+    {
+      "id": "EliSchleifer",
+      "size": 1,
+      "y": 26.12813732027888,
+      "x": 49.75366044564254,
+      "color": "rgb(20,20,200)",
+      "label": "EliSchleifer"
+    },
+    {
+      "id": "elly",
+      "size": 1,
+      "y": 20.33925501207777,
+      "x": 7.737141318081662,
+      "color": "rgb(20,20,200)",
+      "label": "elly"
+    },
+    {
+      "id": "entaq",
+      "size": 1,
+      "y": 20.642943992628588,
+      "x": -36.06439788568936,
+      "color": "rgb(20,20,200)",
+      "label": "entaq"
+    },
+    {
+      "id": "EranGabber",
+      "size": 1,
+      "y": -49.22717499829341,
+      "x": -36.62948296482962,
+      "color": "rgb(20,20,200)",
+      "label": "EranGabber"
+    },
+    {
+      "id": "ericpruitt",
+      "size": 1,
+      "y": -49.87981219201778,
+      "x": 16.919630039623826,
+      "color": "rgb(20,20,200)",
+      "label": "ericpruitt"
+    },
+    {
+      "id": "ericwilligers",
+      "size": 1,
+      "y": 11.816063780992238,
+      "x": 24.695421463704776,
+      "color": "rgb(20,20,200)",
+      "label": "ericwilligers"
+    },
+    {
+      "id": "erjohnso",
+      "size": 1,
+      "y": -20.865567573031598,
+      "x": 15.138726244711137,
+      "color": "rgb(20,20,200)",
+      "label": "erjohnso"
+    },
+    {
+      "id": "ethanbao",
+      "size": 1,
+      "y": 18.492615938478565,
+      "x": -13.775322365420337,
+      "color": "rgb(20,20,200)",
+      "label": "ethanbao"
+    },
+    {
+      "id": "ewiseblatt",
+      "size": 1,
+      "y": 47.18667499444466,
+      "x": -25.169594854821064,
+      "color": "rgb(20,20,200)",
+      "label": "ewiseblatt"
+    },
+    {
+      "id": "fabienviger",
+      "size": 1,
+      "y": -36.124825692517106,
+      "x": -0.4261574239709063,
+      "color": "rgb(20,20,200)",
+      "label": "fabienviger"
+    },
+    {
+      "id": "fabioy",
+      "size": 1,
+      "y": 45.548498089260775,
+      "x": -47.38096111300636,
+      "color": "rgb(20,20,200)",
+      "label": "fabioy"
+    },
+    {
+      "id": "fadden",
+      "size": 1,
+      "y": 49.06473675906879,
+      "x": -45.06961402605892,
+      "color": "rgb(20,20,200)",
+      "label": "fadden"
+    },
+    {
+      "id": "fhoffa",
+      "size": 1,
+      "y": 14.343171223924273,
+      "x": -8.693405948111469,
+      "color": "rgb(20,20,200)",
+      "label": "fhoffa"
+    },
+    {
+      "id": "fischman",
+      "size": 1,
+      "y": -46.105659998493444,
+      "x": 37.14906507150319,
+      "color": "rgb(20,20,200)",
+      "label": "fischman"
+    },
+    {
+      "id": "Flameeyes",
+      "size": 1,
+      "y": 33.37734989282929,
+      "x": 26.973049691065683,
+      "color": "rgb(20,20,200)",
+      "label": "Flameeyes"
+    },
+    {
+      "id": "fmeawad",
+      "size": 1,
+      "y": 9.341553201401645,
+      "x": -35.13525568035034,
+      "color": "rgb(20,20,200)",
+      "label": "fmeawad"
+    },
+    {
+      "id": "fontguy",
+      "size": 1,
+      "y": 13.300908853833747,
+      "x": -13.555957768633874,
+      "color": "rgb(20,20,200)",
+      "label": "fontguy"
+    },
+    {
+      "id": "fredsa",
+      "size": 1,
+      "y": 36.14293461299253,
+      "x": -23.755315026306334,
+      "color": "rgb(20,20,200)",
+      "label": "fredsa"
+    },
+    {
+      "id": "fserb",
+      "size": 1,
+      "y": -1.0697038114960122,
+      "x": 38.538261377139065,
+      "color": "rgb(20,20,200)",
+      "label": "fserb"
+    },
+    {
+      "id": "ftowl",
+      "size": 1,
+      "y": 1.953403695929346,
+      "x": 17.873430571481904,
+      "color": "rgb(20,20,200)",
+      "label": "ftowl"
+    },
+    {
+      "id": "garretrieger",
+      "size": 1,
+      "y": -19.828733461375357,
+      "x": -47.759175980569125,
+      "color": "rgb(20,20,200)",
+      "label": "garretrieger"
+    },
+    {
+      "id": "garrickevans",
+      "size": 1,
+      "y": 37.539461335731644,
+      "x": 10.268710009662954,
+      "color": "rgb(20,20,200)",
+      "label": "garrickevans"
+    },
+    {
+      "id": "gathem",
+      "size": 1,
+      "y": -4.50880025314715,
+      "x": -46.21048939748268,
+      "color": "rgb(20,20,200)",
+      "label": "gathem"
+    },
+    {
+      "id": "gavinp",
+      "size": 1,
+      "y": 37.567214980005204,
+      "x": 2.913088545414574,
+      "color": "rgb(20,20,200)",
+      "label": "gavinp"
+    },
+    {
+      "id": "gdewan",
+      "size": 1,
+      "y": -36.61284574054643,
+      "x": -24.512897627092023,
+      "color": "rgb(20,20,200)",
+      "label": "gdewan"
+    },
+    {
+      "id": "geoffromer",
+      "size": 1,
+      "y": -33.92173466908598,
+      "x": -33.06853054476745,
+      "color": "rgb(20,20,200)",
+      "label": "geoffromer"
+    },
+    {
+      "id": "georgep888",
+      "size": 1,
+      "y": -31.601536405592633,
+      "x": -28.18720855675214,
+      "color": "rgb(20,20,200)",
+      "label": "georgep888"
+    },
+    {
+      "id": "ggogolowicz",
+      "size": 1,
+      "y": -45.89552056055079,
+      "x": 9.727772389308683,
+      "color": "rgb(20,20,200)",
+      "label": "ggogolowicz"
+    },
+    {
+      "id": "GHF",
+      "size": 1,
+      "y": 34.136986068510325,
+      "x": 13.898380276235336,
+      "color": "rgb(20,20,200)",
+      "label": "GHF"
+    },
+    {
+      "id": "gk5885",
+      "size": 1,
+      "y": -25.97149107418212,
+      "x": 9.039165936577298,
+      "color": "rgb(20,20,200)",
+      "label": "gk5885"
+    },
+    {
+      "id": "gkdn",
+      "size": 1,
+      "y": 43.65702645270052,
+      "x": 38.8643911190437,
+      "color": "rgb(20,20,200)",
+      "label": "gkdn"
+    },
+    {
+      "id": "gleber",
+      "size": 1,
+      "y": 2.3370727977303645,
+      "x": -26.068945748829485,
+      "color": "rgb(20,20,200)",
+      "label": "gleber"
+    },
+    {
+      "id": "gmrobbins",
+      "size": 1,
+      "y": -27.24639874023842,
+      "x": -3.898626674960113,
+      "color": "rgb(20,20,200)",
+      "label": "gmrobbins"
+    },
+    {
+      "id": "gnachman",
+      "size": 1,
+      "y": 13.36015989063877,
+      "x": 9.765398541490391,
+      "color": "rgb(20,20,200)",
+      "label": "gnachman"
+    },
+    {
+      "id": "goderbauer",
+      "size": 1,
+      "y": -8.03859321063868,
+      "x": 48.6911257125804,
+      "color": "rgb(20,20,200)",
+      "label": "goderbauer"
+    },
+    {
+      "id": "google-admin",
+      "size": 1,
+      "y": -18.567252935331414,
+      "x": -10.55870387391331,
+      "color": "rgb(20,20,200)",
+      "label": "google-admin"
+    },
+    {
+      "id": "gpshead",
+      "size": 1,
+      "y": -45.37583644464268,
+      "x": -6.611659515287094,
+      "color": "rgb(20,20,200)",
+      "label": "gpshead"
+    },
+    {
+      "id": "grabks",
+      "size": 1,
+      "y": 5.906408428403424,
+      "x": 18.749454101245618,
+      "color": "rgb(20,20,200)",
+      "label": "grabks"
+    },
+    {
+      "id": "grano",
+      "size": 1,
+      "y": 47.88564328843792,
+      "x": 35.911982495697785,
+      "color": "rgb(20,20,200)",
+      "label": "grano"
+    },
+    {
+      "id": "grimreaper",
+      "size": 1,
+      "y": 37.3500352471179,
+      "x": 34.595657425815034,
+      "color": "rgb(20,20,200)",
+      "label": "grimreaper"
+    },
+    {
+      "id": "guywithkeyboard",
+      "size": 1,
+      "y": -44.38753152477047,
+      "x": -34.735920091902344,
+      "color": "rgb(20,20,200)",
+      "label": "guywithkeyboard"
+    },
+    {
+      "id": "gwelymernans",
+      "size": 1,
+      "y": -17.778923496467556,
+      "x": -9.59727430107187,
+      "color": "rgb(20,20,200)",
+      "label": "gwelymernans"
+    },
+    {
+      "id": "gwvo",
+      "size": 1,
+      "y": -33.795194381612276,
+      "x": 8.456559465239522,
+      "color": "rgb(20,20,200)",
+      "label": "gwvo"
+    },
+    {
+      "id": "hannahtck",
+      "size": 1,
+      "y": 42.61867835339976,
+      "x": 45.56632922083206,
+      "color": "rgb(20,20,200)",
+      "label": "hannahtck"
+    },
+    {
+      "id": "hanwen",
+      "size": 1,
+      "y": -3.5870959044706936,
+      "x": 33.03965964692074,
+      "color": "rgb(20,20,200)",
+      "label": "hanwen"
+    },
+    {
+      "id": "happygiraffe",
+      "size": 1,
+      "y": 17.939127998821704,
+      "x": 17.21609992437189,
+      "color": "rgb(20,20,200)",
+      "label": "happygiraffe"
+    },
+    {
+      "id": "hdurer",
+      "size": 1,
+      "y": -41.11257886534909,
+      "x": -43.510145965086046,
+      "color": "rgb(20,20,200)",
+      "label": "hdurer"
+    },
+    {
+      "id": "hendrikwagenaar",
+      "size": 1,
+      "y": -11.493260210439061,
+      "x": 21.555871632796425,
+      "color": "rgb(20,20,200)",
+      "label": "hendrikwagenaar"
+    },
+    {
+      "id": "henriquez",
+      "size": 1,
+      "y": -6.909097425697098,
+      "x": 30.12368512889718,
+      "color": "rgb(20,20,200)",
+      "label": "henriquez"
+    },
+    {
+      "id": "HimanshuVasishth",
+      "size": 1,
+      "y": -18.879678659703536,
+      "x": -33.02614117731165,
+      "color": "rgb(20,20,200)",
+      "label": "HimanshuVasishth"
+    },
+    {
+      "id": "hoshir",
+      "size": 1,
+      "y": -27.34565360735094,
+      "x": -5.450170936915512,
+      "color": "rgb(20,20,200)",
+      "label": "hoshir"
+    },
+    {
+      "id": "huichen",
+      "size": 1,
+      "y": -16.068190021026204,
+      "x": -19.782739110728897,
+      "color": "rgb(20,20,200)",
+      "label": "huichen"
+    },
+    {
+      "id": "iam",
+      "size": 1,
+      "y": 47.813829642454365,
+      "x": -4.217558842174142,
+      "color": "rgb(20,20,200)",
+      "label": "iam"
+    },
+    {
+      "id": "ianbarber",
+      "size": 1,
+      "y": -40.33261826614357,
+      "x": -37.359108562368945,
+      "color": "rgb(20,20,200)",
+      "label": "ianbarber"
+    },
+    {
+      "id": "ianlancetaylor",
+      "size": 1,
+      "y": -36.247053509439,
+      "x": 6.25623175792397,
+      "color": "rgb(20,20,200)",
+      "label": "ianlancetaylor"
+    },
+    {
+      "id": "iein",
+      "size": 1,
+      "y": -13.534703199511164,
+      "x": -3.1644922389462806,
+      "color": "rgb(20,20,200)",
+      "label": "iein"
+    },
+    {
+      "id": "igrigorik",
+      "size": 1,
+      "y": 24.99974058590901,
+      "x": -31.595339997736428,
+      "color": "rgb(20,20,200)",
+      "label": "igrigorik"
+    },
+    {
+      "id": "ihmccreery",
+      "size": 1,
+      "y": -7.238505223082406,
+      "x": 16.143318134148302,
+      "color": "rgb(20,20,200)",
+      "label": "ihmccreery"
+    },
+    {
+      "id": "iislucas",
+      "size": 1,
+      "y": 39.00224220852873,
+      "x": 7.201725594911302,
+      "color": "rgb(20,20,200)",
+      "label": "iislucas"
+    },
+    {
+      "id": "ImJasonH",
+      "size": 1,
+      "y": 25.90975308398059,
+      "x": 48.58646032451185,
+      "color": "rgb(20,20,200)",
+      "label": "ImJasonH"
+    },
+    {
+      "id": "ipopov",
+      "size": 1,
+      "y": -3.676831630321651,
+      "x": -41.59460509573122,
+      "color": "rgb(20,20,200)",
+      "label": "ipopov"
+    },
+    {
+      "id": "iqs",
+      "size": 1,
+      "y": -30.58646830976749,
+      "x": -22.059511167515044,
+      "color": "rgb(20,20,200)",
+      "label": "iqs"
+    },
+    {
+      "id": "ivant",
+      "size": 1,
+      "y": 32.41470819818851,
+      "x": 41.07362429731283,
+      "color": "rgb(20,20,200)",
+      "label": "ivant"
+    },
+    {
+      "id": "ixdy",
+      "size": 1,
+      "y": 0.7597924536259271,
+      "x": -41.36129719628089,
+      "color": "rgb(20,20,200)",
+      "label": "ixdy"
+    },
+    {
+      "id": "jackgr",
+      "size": 1,
+      "y": 14.676621041300592,
+      "x": 44.83847780718156,
+      "color": "rgb(20,20,200)",
+      "label": "jackgr"
+    },
+    {
+      "id": "jacobmarble",
+      "size": 1,
+      "y": -1.7044320909373027,
+      "x": 10.71588769657712,
+      "color": "rgb(20,20,200)",
+      "label": "jacobmarble"
+    },
+    {
+      "id": "jamesgk",
+      "size": 1,
+      "y": 5.972204937107136,
+      "x": 8.472036205461322,
+      "color": "rgb(20,20,200)",
+      "label": "jamesgk"
+    },
+    {
+      "id": "japacible",
+      "size": 1,
+      "y": -24.713030288620132,
+      "x": -21.20285030626585,
+      "color": "rgb(20,20,200)",
+      "label": "japacible"
+    },
+    {
+      "id": "jason9t",
+      "size": 1,
+      "y": 44.44373669084602,
+      "x": 0.6857050082040601,
+      "color": "rgb(20,20,200)",
+      "label": "jason9t"
+    },
+    {
+      "id": "jayantkolhe",
+      "size": 1,
+      "y": -33.58688602444032,
+      "x": 18.969525205072486,
+      "color": "rgb(20,20,200)",
+      "label": "jayantkolhe"
+    },
+    {
+      "id": "jaybe38",
+      "size": 1,
+      "y": -37.25771822213913,
+      "x": -20.76782997160185,
+      "color": "rgb(20,20,200)",
+      "label": "jaybe38"
+    },
+    {
+      "id": "jdarpinian",
+      "size": 1,
+      "y": 2.3672730294969853,
+      "x": -22.913217860944368,
+      "color": "rgb(20,20,200)",
+      "label": "jdarpinian"
+    },
+    {
+      "id": "jdgreenberg",
+      "size": 1,
+      "y": -5.4824222043669195,
+      "x": -35.9048768326527,
+      "color": "rgb(20,20,200)",
+      "label": "jdgreenberg"
+    },
+    {
+      "id": "jeffbcross",
+      "size": 1,
+      "y": -42.233368660873026,
+      "x": 37.779074204093305,
+      "color": "rgb(20,20,200)",
+      "label": "jeffbcross"
+    },
+    {
+      "id": "jeffkaufman",
+      "size": 1,
+      "y": 15.106502188654233,
+      "x": 6.4212643918524535,
+      "color": "rgb(20,20,200)",
+      "label": "jeffkaufman"
+    },
+    {
+      "id": "jeffmendoza",
+      "size": 1,
+      "y": -22.791825636737528,
+      "x": -38.71019882348773,
+      "color": "rgb(20,20,200)",
+      "label": "jeffmendoza"
+    },
+    {
+      "id": "jeffposnick",
+      "size": 1,
+      "y": -12.955664579788348,
+      "x": -9.573016981893979,
+      "color": "rgb(20,20,200)",
+      "label": "jeffposnick"
+    },
+    {
+      "id": "jeremyje",
+      "size": 1,
+      "y": 16.246184911295487,
+      "x": -16.36919995371965,
+      "color": "rgb(20,20,200)",
+      "label": "jeremyje"
+    },
+    {
+      "id": "jeremywhelchel",
+      "size": 1,
+      "y": 19.95481507370502,
+      "x": -31.933612881343386,
+      "color": "rgb(20,20,200)",
+      "label": "jeremywhelchel"
+    },
+    {
+      "id": "Jessie-Newman",
+      "size": 1,
+      "y": 7.579513706353957,
+      "x": -30.497642272103466,
+      "color": "rgb(20,20,200)",
+      "label": "Jessie-Newman"
+    },
+    {
+      "id": "jfroy",
+      "size": 1,
+      "y": -6.732431630106717,
+      "x": 25.218344481609847,
+      "color": "rgb(20,20,200)",
+      "label": "jfroy"
+    },
+    {
+      "id": "jimhug",
+      "size": 1,
+      "y": 13.448823846121897,
+      "x": 36.77524457959993,
+      "color": "rgb(20,20,200)",
+      "label": "jimhug"
+    },
+    {
+      "id": "jimper",
+      "size": 1,
+      "y": -22.96588871671168,
+      "x": 5.696333183106262,
+      "color": "rgb(20,20,200)",
+      "label": "jimper"
+    },
+    {
+      "id": "jinxos",
+      "size": 1,
+      "y": -13.480869652587891,
+      "x": 17.16118810777681,
+      "color": "rgb(20,20,200)",
+      "label": "jinxos"
+    },
+    {
+      "id": "jjinux",
+      "size": 1,
+      "y": 29.885161936013944,
+      "x": 47.23716254671531,
+      "color": "rgb(20,20,200)",
+      "label": "jjinux"
+    },
+    {
+      "id": "jkaplowitz",
+      "size": 1,
+      "y": -4.138457052101799,
+      "x": 2.810389746133282,
+      "color": "rgb(20,20,200)",
+      "label": "jkaplowitz"
+    },
+    {
+      "id": "jklein24",
+      "size": 1,
+      "y": 2.2939286123493687,
+      "x": -2.1702171530661545,
+      "color": "rgb(20,20,200)",
+      "label": "jklein24"
+    },
+    {
+      "id": "jkomoros",
+      "size": 1,
+      "y": -29.04664643902185,
+      "x": -10.655043143312028,
+      "color": "rgb(20,20,200)",
+      "label": "jkomoros"
+    },
+    {
+      "id": "jlivni",
+      "size": 1,
+      "y": -26.438840217955494,
+      "x": -46.05067656792752,
+      "color": "rgb(20,20,200)",
+      "label": "jlivni"
+    },
+    {
+      "id": "jmr",
+      "size": 1,
+      "y": 6.347596679230975,
+      "x": 2.616132184319234,
+      "color": "rgb(20,20,200)",
+      "label": "jmr"
+    },
+    {
+      "id": "jmstriegel",
+      "size": 1,
+      "y": -25.93487880130876,
+      "x": -0.903824443364023,
+      "color": "rgb(20,20,200)",
+      "label": "jmstriegel"
+    },
+    {
+      "id": "jmwaura",
+      "size": 1,
+      "y": 2.594958580962448,
+      "x": -4.814529893264208,
+      "color": "rgb(20,20,200)",
+      "label": "jmwaura"
+    },
+    {
+      "id": "joachimmetz",
+      "size": 1,
+      "y": 17.62139891224483,
+      "x": 46.8805900849497,
+      "color": "rgb(20,20,200)",
+      "label": "joachimmetz"
+    },
+    {
+      "id": "joefernandez",
+      "size": 1,
+      "y": 33.92065256528312,
+      "x": 49.1724513886964,
+      "color": "rgb(20,20,200)",
+      "label": "joefernandez"
+    },
+    {
+      "id": "joeloyj",
+      "size": 1,
+      "y": -12.775357745225847,
+      "x": -16.452374782647624,
+      "color": "rgb(20,20,200)",
+      "label": "joeloyj"
+    },
+    {
+      "id": "joeyyang",
+      "size": 1,
+      "y": -21.827940652170476,
+      "x": -19.416346617083434,
+      "color": "rgb(20,20,200)",
+      "label": "joeyyang"
+    },
+    {
+      "id": "johndmulhausen",
+      "size": 1,
+      "y": 5.760619249396136,
+      "x": 6.395203014853038,
+      "color": "rgb(20,20,200)",
+      "label": "johndmulhausen"
+    },
+    {
+      "id": "johnfargo",
+      "size": 1,
+      "y": -0.33934276866403934,
+      "x": 43.74526805516459,
+      "color": "rgb(20,20,200)",
+      "label": "johnfargo"
+    },
+    {
+      "id": "johnheroy",
+      "size": 1,
+      "y": 5.982077003996075,
+      "x": -34.24706446481812,
+      "color": "rgb(20,20,200)",
+      "label": "johnheroy"
+    },
+    {
+      "id": "johnwilkes",
+      "size": 1,
+      "y": 0.23946110756665462,
+      "x": 13.478678330349034,
+      "color": "rgb(20,20,200)",
+      "label": "johnwilkes"
+    },
+    {
+      "id": "jonparrott",
+      "size": 1,
+      "y": 17.148793928652296,
+      "x": -39.324175754509824,
+      "color": "rgb(20,20,200)",
+      "label": "jonparrott"
+    },
+    {
+      "id": "jpatokal",
+      "size": 1,
+      "y": 30.359732075595304,
+      "x": 42.65925208177936,
+      "color": "rgb(20,20,200)",
+      "label": "jpatokal"
+    },
+    {
+      "id": "jpevarnek",
+      "size": 1,
+      "y": -34.74524176305782,
+      "x": 49.531078483812834,
+      "color": "rgb(20,20,200)",
+      "label": "jpevarnek"
+    },
+    {
+      "id": "jpgaribotti",
+      "size": 1,
+      "y": 48.08827426235955,
+      "x": -22.335040045189036,
+      "color": "rgb(20,20,200)",
+      "label": "jpgaribotti"
+    },
+    {
+      "id": "jsanmiya",
+      "size": 1,
+      "y": 15.324875904322099,
+      "x": 25.451837336538887,
+      "color": "rgb(20,20,200)",
+      "label": "jsanmiya"
+    },
+    {
+      "id": "jskeet",
+      "size": 1,
+      "y": -49.454665843005316,
+      "x": 23.50729673805465,
+      "color": "rgb(20,20,200)",
+      "label": "jskeet"
+    },
+    {
+      "id": "jterrace",
+      "size": 1,
+      "y": 32.88135886745603,
+      "x": -8.645650001894282,
+      "color": "rgb(20,20,200)",
+      "label": "jterrace"
+    },
+    {
+      "id": "jtmcdole",
+      "size": 1,
+      "y": -18.65686912227218,
+      "x": 8.83655409577242,
+      "color": "rgb(20,20,200)",
+      "label": "jtmcdole"
+    },
+    {
+      "id": "juliaferraioli",
+      "size": 1,
+      "y": -5.707749047218435,
+      "x": 1.4884571925538737,
+      "color": "rgb(20,20,200)",
+      "label": "juliaferraioli"
+    },
+    {
+      "id": "juliantoledo",
+      "size": 1,
+      "y": -39.4991028148753,
+      "x": 22.59891071112132,
+      "color": "rgb(20,20,200)",
+      "label": "juliantoledo"
+    },
+    {
+      "id": "juliemr",
+      "size": 1,
+      "y": 15.054277278000399,
+      "x": -1.288298301045387,
+      "color": "rgb(20,20,200)",
+      "label": "juliemr"
+    },
+    {
+      "id": "jyasskin",
+      "size": 1,
+      "y": 49.76443786742941,
+      "x": -45.313252772260014,
+      "color": "rgb(20,20,200)",
+      "label": "jyasskin"
+    },
+    {
+      "id": "jzacsh",
+      "size": 1,
+      "y": -22.916886583182826,
+      "x": -9.5289573351601,
+      "color": "rgb(20,20,200)",
+      "label": "jzacsh"
+    },
+    {
+      "id": "kaladron",
+      "size": 1,
+      "y": 48.286253911700385,
+      "x": 49.12430865473047,
+      "color": "rgb(20,20,200)",
+      "label": "kaladron"
+    },
+    {
+      "id": "kalakris",
+      "size": 1,
+      "y": -19.09527735177742,
+      "x": 12.395826536224654,
+      "color": "rgb(20,20,200)",
+      "label": "kalakris"
+    },
+    {
+      "id": "kathringh",
+      "size": 1,
+      "y": 35.253368696058445,
+      "x": 49.532948581848785,
+      "color": "rgb(20,20,200)",
+      "label": "kathringh"
+    },
+    {
+      "id": "keroserene",
+      "size": 1,
+      "y": 48.05526816767525,
+      "x": -6.194193934001547,
+      "color": "rgb(20,20,200)",
+      "label": "keroserene"
+    },
+    {
+      "id": "kerryrodden",
+      "size": 1,
+      "y": 14.07360875974139,
+      "x": 28.630896301035875,
+      "color": "rgb(20,20,200)",
+      "label": "kerryrodden"
+    },
+    {
+      "id": "keyboardsurfer",
+      "size": 1,
+      "y": -8.835713553326649,
+      "x": -46.46010268085704,
+      "color": "rgb(20,20,200)",
+      "label": "keyboardsurfer"
+    },
+    {
+      "id": "kjacqmin",
+      "size": 1,
+      "y": -6.880179634928233,
+      "x": 39.55674926995685,
+      "color": "rgb(20,20,200)",
+      "label": "kjacqmin"
+    },
+    {
+      "id": "klausw",
+      "size": 1,
+      "y": -0.8471678455286877,
+      "x": -31.923087441969322,
+      "color": "rgb(20,20,200)",
+      "label": "klausw"
+    },
+    {
+      "id": "klepikov",
+      "size": 1,
+      "y": -30.43241017738929,
+      "x": 31.41470072716922,
+      "color": "rgb(20,20,200)",
+      "label": "klepikov"
+    },
+    {
+      "id": "kluever",
+      "size": 1,
+      "y": 4.559899663944698,
+      "x": -25.71678362157429,
+      "color": "rgb(20,20,200)",
+      "label": "kluever"
+    },
+    {
+      "id": "kolmodin",
+      "size": 1,
+      "y": 18.88878050969457,
+      "x": -4.302540076184499,
+      "color": "rgb(20,20,200)",
+      "label": "kolmodin"
+    },
+    {
+      "id": "korfuri",
+      "size": 1,
+      "y": 14.070094208003454,
+      "x": -14.559533025924608,
+      "color": "rgb(20,20,200)",
+      "label": "korfuri"
+    },
+    {
+      "id": "krousey",
+      "size": 1,
+      "y": -39.45237773613327,
+      "x": 2.818942072391863,
+      "color": "rgb(20,20,200)",
+      "label": "krousey"
+    },
+    {
+      "id": "kruton",
+      "size": 1,
+      "y": 49.69515530496348,
+      "x": -36.50785588985016,
+      "color": "rgb(20,20,200)",
+      "label": "kruton"
+    },
+    {
+      "id": "kuccello",
+      "size": 1,
+      "y": 21.167005534710455,
+      "x": -15.185758705076623,
+      "color": "rgb(20,20,200)",
+      "label": "kuccello"
+    },
+    {
+      "id": "KurtSteinkraus",
+      "size": 1,
+      "y": -4.320899316209314,
+      "x": 23.578694328024497,
+      "color": "rgb(20,20,200)",
+      "label": "KurtSteinkraus"
+    },
+    {
+      "id": "kwiberg",
+      "size": 1,
+      "y": 41.00398580664262,
+      "x": -23.846634718862582,
+      "color": "rgb(20,20,200)",
+      "label": "kwiberg"
+    },
+    {
+      "id": "leeschumacher",
+      "size": 1,
+      "y": 12.763112919441014,
+      "x": 4.9566220276919495,
+      "color": "rgb(20,20,200)",
+      "label": "leeschumacher"
+    },
+    {
+      "id": "lgarron",
+      "size": 1,
+      "y": 47.98867463985543,
+      "x": 7.058537429013377,
+      "color": "rgb(20,20,200)",
+      "label": "lgarron"
+    },
+    {
+      "id": "ludoch",
+      "size": 1,
+      "y": -14.373523916806377,
+      "x": 46.450841340209195,
+      "color": "rgb(20,20,200)",
+      "label": "ludoch"
+    },
+    {
+      "id": "lyntco",
+      "size": 1,
+      "y": -16.041123183697245,
+      "x": 12.997279681545571,
+      "color": "rgb(20,20,200)",
+      "label": "lyntco"
+    },
+    {
+      "id": "mabouza",
+      "size": 1,
+      "y": 33.57995549328328,
+      "x": -23.481669573760843,
+      "color": "rgb(20,20,200)",
+      "label": "mabouza"
+    },
+    {
+      "id": "malcolmr",
+      "size": 1,
+      "y": -11.810070416373364,
+      "x": -21.582634797441035,
+      "color": "rgb(20,20,200)",
+      "label": "malcolmr"
+    },
+    {
+      "id": "manastungare",
+      "size": 1,
+      "y": -32.73554121231326,
+      "x": -13.00311442648092,
+      "color": "rgb(20,20,200)",
+      "label": "manastungare"
+    },
+    {
+      "id": "mangini",
+      "size": 1,
+      "y": -40.23268676582401,
+      "x": 23.119741906137236,
+      "color": "rgb(20,20,200)",
+      "label": "mangini"
+    },
+    {
+      "id": "marcacohen",
+      "size": 1,
+      "y": 42.63145356740259,
+      "x": -34.44687771870977,
+      "color": "rgb(20,20,200)",
+      "label": "marcacohen"
+    },
+    {
+      "id": "marcja",
+      "size": 1,
+      "y": -23.350876642490704,
+      "x": 48.403667393986,
+      "color": "rgb(20,20,200)",
+      "label": "marcja"
+    },
+    {
+      "id": "marcmerlin",
+      "size": 1,
+      "y": 30.71441977909852,
+      "x": -44.57279014417457,
+      "color": "rgb(20,20,200)",
+      "label": "marcmerlin"
+    },
+    {
+      "id": "markmcd",
+      "size": 1,
+      "y": -4.925656193761071,
+      "x": 37.05086813633693,
+      "color": "rgb(20,20,200)",
+      "label": "markmcd"
+    },
+    {
+      "id": "markpell",
+      "size": 1,
+      "y": -5.6619993264229365,
+      "x": -8.78459189256666,
+      "color": "rgb(20,20,200)",
+      "label": "markpell"
+    },
+    {
+      "id": "marslangoog",
+      "size": 1,
+      "y": -8.474028707132462,
+      "x": -19.345107924687632,
+      "color": "rgb(20,20,200)",
+      "label": "marslangoog"
+    },
+    {
+      "id": "martine",
+      "size": 1,
+      "y": -7.865265237370977,
+      "x": -22.47148067465785,
+      "color": "rgb(20,20,200)",
+      "label": "martine"
+    },
+    {
+      "id": "martineo14",
+      "size": 1,
+      "y": 33.97073659881143,
+      "x": 39.11250644979947,
+      "color": "rgb(20,20,200)",
+      "label": "martineo14"
+    },
+    {
+      "id": "maruel",
+      "size": 1,
+      "y": -38.46653644131758,
+      "x": -16.59403115275908,
+      "color": "rgb(20,20,200)",
+      "label": "maruel"
+    },
+    {
+      "id": "MatrixFrog",
+      "size": 1,
+      "y": 33.92699846188705,
+      "x": 11.843534729868978,
+      "color": "rgb(20,20,200)",
+      "label": "MatrixFrog"
+    },
+    {
+      "id": "matsko",
+      "size": 1,
+      "y": 29.487973926038862,
+      "x": -8.895296633243873,
+      "color": "rgb(20,20,200)",
+      "label": "matsko"
+    },
+    {
+      "id": "mattstep",
+      "size": 1,
+      "y": 7.190271431338282,
+      "x": 0.21410148286977915,
+      "color": "rgb(20,20,200)",
+      "label": "mattstep"
+    },
+    {
+      "id": "matvore",
+      "size": 1,
+      "y": 7.25358413936015,
+      "x": 35.23226315188185,
+      "color": "rgb(20,20,200)",
+      "label": "matvore"
+    },
+    {
+      "id": "mauimauer",
+      "size": 1,
+      "y": 20.243762861954067,
+      "x": -47.2708302031575,
+      "color": "rgb(20,20,200)",
+      "label": "mauimauer"
+    },
+    {
+      "id": "maurerj",
+      "size": 1,
+      "y": -48.94189253079927,
+      "x": -28.406993170734406,
+      "color": "rgb(20,20,200)",
+      "label": "maurerj"
+    },
+    {
+      "id": "max99x",
+      "size": 1,
+      "y": -19.299939129370138,
+      "x": 24.879784876932632,
+      "color": "rgb(20,20,200)",
+      "label": "max99x"
+    },
+    {
+      "id": "MaxRossGoogle",
+      "size": 1,
+      "y": -45.15703243301212,
+      "x": -27.750948336432135,
+      "color": "rgb(20,20,200)",
+      "label": "MaxRossGoogle"
+    },
+    {
+      "id": "mbrukman",
+      "size": 1,
+      "y": -9.579750411728604,
+      "x": 18.470520680412818,
+      "color": "rgb(20,20,200)",
+      "label": "mbrukman"
+    },
+    {
+      "id": "mcantos",
+      "size": 1,
+      "y": -5.877116923248572,
+      "x": 31.722603012345218,
+      "color": "rgb(20,20,200)",
+      "label": "mcantos"
+    },
+    {
+      "id": "mfschwartz",
+      "size": 1,
+      "y": -14.31147843209689,
+      "x": 31.34825307258852,
+      "color": "rgb(20,20,200)",
+      "label": "mfschwartz"
+    },
+    {
+      "id": "mhchen",
+      "size": 1,
+      "y": -36.7575815582439,
+      "x": -3.1914407550398636,
+      "color": "rgb(20,20,200)",
+      "label": "mhchen"
+    },
+    {
+      "id": "michaelabdelmalek",
+      "size": 1,
+      "y": 35.94032314630661,
+      "x": -43.28284864229438,
+      "color": "rgb(20,20,200)",
+      "label": "michaelabdelmalek"
+    },
+    {
+      "id": "mikewest",
+      "size": 1,
+      "y": 48.55627768442156,
+      "x": -8.967588826412431,
+      "color": "rgb(20,20,200)",
+      "label": "mikewest"
+    },
+    {
+      "id": "mjansche",
+      "size": 1,
+      "y": -23.303943907777324,
+      "x": 28.450560695173138,
+      "color": "rgb(20,20,200)",
+      "label": "mjansche"
+    },
+    {
+      "id": "moduloprime",
+      "size": 1,
+      "y": 20.1907781026255,
+      "x": 9.235536949782933,
+      "color": "rgb(20,20,200)",
+      "label": "moduloprime"
+    },
+    {
+      "id": "Mononofu",
+      "size": 1,
+      "y": -31.282250433582128,
+      "x": 23.525091232122037,
+      "color": "rgb(20,20,200)",
+      "label": "Mononofu"
+    },
+    {
+      "id": "monsur",
+      "size": 1,
+      "y": -19.670774231479136,
+      "x": 33.008060487372276,
+      "color": "rgb(20,20,200)",
+      "label": "monsur"
+    },
+    {
+      "id": "MoritzT",
+      "size": 1,
+      "y": -7.6573898367691555,
+      "x": -27.238040826677423,
+      "color": "rgb(20,20,200)",
+      "label": "MoritzT"
+    },
+    {
+      "id": "mounirlamouri",
+      "size": 1,
+      "y": 32.255120668675346,
+      "x": 30.778364640419483,
+      "color": "rgb(20,20,200)",
+      "label": "mounirlamouri"
+    },
+    {
+      "id": "mpd",
+      "size": 1,
+      "y": 20.010233989795992,
+      "x": 29.23470691015605,
+      "color": "rgb(20,20,200)",
+      "label": "mpd"
+    },
+    {
+      "id": "mthvedt",
+      "size": 1,
+      "y": 27.396423073838932,
+      "x": 6.201111902886204,
+      "color": "rgb(20,20,200)",
+      "label": "mthvedt"
+    },
+    {
+      "id": "mugurm",
+      "size": 1,
+      "y": 10.759549479520416,
+      "x": 16.16744273660163,
+      "color": "rgb(20,20,200)",
+      "label": "mugurm"
+    },
+    {
+      "id": "munutzer",
+      "size": 1,
+      "y": 45.58670289032071,
+      "x": 46.62707162983169,
+      "color": "rgb(20,20,200)",
+      "label": "munutzer"
+    },
+    {
+      "id": "murgatroid99",
+      "size": 1,
+      "y": 42.49378328789746,
+      "x": -44.611528555993104,
+      "color": "rgb(20,20,200)",
+      "label": "murgatroid99"
+    },
+    {
+      "id": "mzero",
+      "size": 1,
+      "y": 26.435808336793272,
+      "x": -40.913845373873,
+      "color": "rgb(20,20,200)",
+      "label": "mzero"
+    },
+    {
+      "id": "nageshs",
+      "size": 1,
+      "y": 30.439402843797055,
+      "x": 39.666746784284186,
+      "color": "rgb(20,20,200)",
+      "label": "nageshs"
+    },
+    {
+      "id": "narphorium",
+      "size": 1,
+      "y": -8.187985668855347,
+      "x": -8.239216857009254,
+      "color": "rgb(20,20,200)",
+      "label": "narphorium"
+    },
+    {
+      "id": "natewilliford",
+      "size": 1,
+      "y": 44.62869617646285,
+      "x": 46.66415109555811,
+      "color": "rgb(20,20,200)",
+      "label": "natewilliford"
+    },
+    {
+      "id": "nedn",
+      "size": 1,
+      "y": 11.324222137290931,
+      "x": -32.85244277355098,
+      "color": "rgb(20,20,200)",
+      "label": "nedn"
+    },
+    {
+      "id": "NeilFraser",
+      "size": 1,
+      "y": 5.809613843195081,
+      "x": -20.058192669193698,
+      "color": "rgb(20,20,200)",
+      "label": "NeilFraser"
+    },
+    {
+      "id": "nettoyeurny",
+      "size": 1,
+      "y": -29.965924478306803,
+      "x": -8.939360532290173,
+      "color": "rgb(20,20,200)",
+      "label": "nettoyeurny"
+    },
+    {
+      "id": "nfaralli",
+      "size": 1,
+      "y": -22.39638871043079,
+      "x": -14.892660131278625,
+      "color": "rgb(20,20,200)",
+      "label": "nfaralli"
+    },
+    {
+      "id": "ngparker",
+      "size": 1,
+      "y": 34.59254814211019,
+      "x": 4.810322641129083,
+      "color": "rgb(20,20,200)",
+      "label": "ngparker"
+    },
+    {
+      "id": "nicolasgarnier",
+      "size": 1,
+      "y": -21.388310654924226,
+      "x": 7.687090280067736,
+      "color": "rgb(20,20,200)",
+      "label": "nicolasgarnier"
+    },
+    {
+      "id": "nikclayton",
+      "size": 1,
+      "y": 19.420207731819744,
+      "x": -29.1438657327762,
+      "color": "rgb(20,20,200)",
+      "label": "nikclayton"
+    },
+    {
+      "id": "nikhiljindal",
+      "size": 1,
+      "y": -8.082141673543255,
+      "x": -35.43193536103667,
+      "color": "rgb(20,20,200)",
+      "label": "nikhiljindal"
+    },
+    {
+      "id": "nlativy",
+      "size": 1,
+      "y": 8.758265018823572,
+      "x": 26.397625893341214,
+      "color": "rgb(20,20,200)",
+      "label": "nlativy"
+    },
+    {
+      "id": "nmittler",
+      "size": 1,
+      "y": -38.63882748883959,
+      "x": 13.531157603796792,
+      "color": "rgb(20,20,200)",
+      "label": "nmittler"
+    },
+    {
+      "id": "normanr",
+      "size": 1,
+      "y": 19.460762777210803,
+      "x": 14.814011612404826,
+      "color": "rgb(20,20,200)",
+      "label": "normanr"
+    },
+    {
+      "id": "nostrademons",
+      "size": 1,
+      "y": -46.121849592782524,
+      "x": -5.876389081591071,
+      "color": "rgb(20,20,200)",
+      "label": "nostrademons"
+    },
+    {
+      "id": "nvanbenschoten",
+      "size": 1,
+      "y": -5.903869153735862,
+      "x": 13.694113293539033,
+      "color": "rgb(20,20,200)",
+      "label": "nvanbenschoten"
+    },
+    {
+      "id": "oaktowner",
+      "size": 1,
+      "y": -36.06325028302134,
+      "x": -38.1787737851004,
+      "color": "rgb(20,20,200)",
+      "label": "oaktowner"
+    },
+    {
+      "id": "oalami",
+      "size": 1,
+      "y": 27.402571307242297,
+      "x": -8.15177243010885,
+      "color": "rgb(20,20,200)",
+      "label": "oalami"
+    },
+    {
+      "id": "opozo",
+      "size": 1,
+      "y": -3.3532828768802574,
+      "x": 28.285040516579073,
+      "color": "rgb(20,20,200)",
+      "label": "opozo"
+    },
+    {
+      "id": "originaldon",
+      "size": 1,
+      "y": -37.25888363387738,
+      "x": 34.831965748847566,
+      "color": "rgb(20,20,200)",
+      "label": "originaldon"
+    },
+    {
+      "id": "oscardelben",
+      "size": 1,
+      "y": -15.82905717639882,
+      "x": 24.21889205223306,
+      "color": "rgb(20,20,200)",
+      "label": "oscardelben"
+    },
+    {
+      "id": "palladius",
+      "size": 1,
+      "y": 0.5332064114067947,
+      "x": -18.793422411468473,
+      "color": "rgb(20,20,200)",
+      "label": "palladius"
+    },
+    {
+      "id": "paulirish",
+      "size": 1,
+      "y": 17.308008856871098,
+      "x": 23.81913792340066,
+      "color": "rgb(20,20,200)",
+      "label": "paulirish"
+    },
+    {
+      "id": "paullewis",
+      "size": 1,
+      "y": 44.50969297908401,
+      "x": -45.53356661310558,
+      "color": "rgb(20,20,200)",
+      "label": "paullewis"
+    },
+    {
+      "id": "paulrossman",
+      "size": 1,
+      "y": -49.81984452888681,
+      "x": 25.772165108691382,
+      "color": "rgb(20,20,200)",
+      "label": "paulrossman"
+    },
+    {
+      "id": "pavelgj",
+      "size": 1,
+      "y": 48.03904835514183,
+      "x": -18.524050530123315,
+      "color": "rgb(20,20,200)",
+      "label": "pavelgj"
+    },
+    {
+      "id": "petele",
+      "size": 1,
+      "y": 29.125829048499114,
+      "x": -49.90705704734778,
+      "color": "rgb(20,20,200)",
+      "label": "petele"
+    },
+    {
+      "id": "pgenera",
+      "size": 1,
+      "y": -35.62004377868337,
+      "x": -47.698950872064614,
+      "color": "rgb(20,20,200)",
+      "label": "pgenera"
+    },
+    {
+      "id": "pgeorgi",
+      "size": 1,
+      "y": 18.957454144520625,
+      "x": 20.016022567321457,
+      "color": "rgb(20,20,200)",
+      "label": "pgeorgi"
+    },
+    {
+      "id": "phajdan",
+      "size": 1,
+      "y": 47.23933977010965,
+      "x": 2.999433394451856,
+      "color": "rgb(20,20,200)",
+      "label": "phajdan"
+    },
+    {
+      "id": "philipwalton",
+      "size": 1,
+      "y": 29.582384960952922,
+      "x": -3.3089774008044017,
+      "color": "rgb(20,20,200)",
+      "label": "philipwalton"
+    },
+    {
+      "id": "pkern",
+      "size": 1,
+      "y": -1.9885246076377214,
+      "x": 14.118182113151747,
+      "color": "rgb(20,20,200)",
+      "label": "pkern"
+    },
+    {
+      "id": "pleroy",
+      "size": 1,
+      "y": -13.911535791181116,
+      "x": -13.389276974695441,
+      "color": "rgb(20,20,200)",
+      "label": "pleroy"
+    },
+    {
+      "id": "Plutor",
+      "size": 1,
+      "y": 28.814658287209284,
+      "x": -19.427628748230852,
+      "color": "rgb(20,20,200)",
+      "label": "Plutor"
+    },
+    {
+      "id": "pmaoki",
+      "size": 1,
+      "y": 24.763812801624113,
+      "x": 11.746350282752601,
+      "color": "rgb(20,20,200)",
+      "label": "pmaoki"
+    },
+    {
+      "id": "pmeenan",
+      "size": 1,
+      "y": -13.468995069485636,
+      "x": -41.25523754603222,
+      "color": "rgb(20,20,200)",
+      "label": "pmeenan"
+    },
+    {
+      "id": "ProgramMax",
+      "size": 1,
+      "y": 14.868579274688344,
+      "x": -7.114810143027718,
+      "color": "rgb(20,20,200)",
+      "label": "ProgramMax"
+    },
+    {
+      "id": "proppy",
+      "size": 1,
+      "y": -49.78155095172231,
+      "x": 24.269065237915072,
+      "color": "rgb(20,20,200)",
+      "label": "proppy"
+    },
+    {
+      "id": "pylaligand",
+      "size": 1,
+      "y": -0.08130818707738996,
+      "x": 49.84896222612173,
+      "color": "rgb(20,20,200)",
+      "label": "pylaligand"
+    },
+    {
+      "id": "quisquous",
+      "size": 1,
+      "y": -49.558544949422,
+      "x": 46.828202172997166,
+      "color": "rgb(20,20,200)",
+      "label": "quisquous"
+    },
+    {
+      "id": "rafaelw",
+      "size": 1,
+      "y": -27.22317317182197,
+      "x": 37.06090802543356,
+      "color": "rgb(20,20,200)",
+      "label": "rafaelw"
+    },
+    {
+      "id": "raggi",
+      "size": 1,
+      "y": -14.070142544181031,
+      "x": -16.204597339762095,
+      "color": "rgb(20,20,200)",
+      "label": "raggi"
+    },
+    {
+      "id": "rakyll",
+      "size": 1,
+      "y": -40.9967618869633,
+      "x": -35.86410574650799,
+      "color": "rgb(20,20,200)",
+      "label": "rakyll"
+    },
+    {
+      "id": "ramosian-glider",
+      "size": 1,
+      "y": 37.04878096372374,
+      "x": -48.720523136675055,
+      "color": "rgb(20,20,200)",
+      "label": "ramosian-glider"
+    },
+    {
+      "id": "ranjib",
+      "size": 1,
+      "y": -30.164910169043424,
+      "x": 28.593325231139914,
+      "color": "rgb(20,20,200)",
+      "label": "ranjib"
+    },
+    {
+      "id": "rcleveng",
+      "size": 1,
+      "y": 12.506315456232528,
+      "x": -37.04195527463301,
+      "color": "rgb(20,20,200)",
+      "label": "rcleveng"
+    },
+    {
+      "id": "rdcastro",
+      "size": 1,
+      "y": 19.739176084784845,
+      "x": 34.10568015505302,
+      "color": "rgb(20,20,200)",
+      "label": "rdcastro"
+    },
+    {
+      "id": "reinhillmann",
+      "size": 1,
+      "y": -38.23340925345264,
+      "x": 0.9872167879332636,
+      "color": "rgb(20,20,200)",
+      "label": "reinhillmann"
+    },
+    {
+      "id": "remoun",
+      "size": 1,
+      "y": -24.21129562011859,
+      "x": 40.88746362839831,
+      "color": "rgb(20,20,200)",
+      "label": "remoun"
+    },
+    {
+      "id": "reprogrammer",
+      "size": 1,
+      "y": -42.91652710458502,
+      "x": -4.359910903062101,
+      "color": "rgb(20,20,200)",
+      "label": "reprogrammer"
+    },
+    {
+      "id": "rickyz",
+      "size": 1,
+      "y": -30.464353794559074,
+      "x": -22.4521631458394,
+      "color": "rgb(20,20,200)",
+      "label": "rickyz"
+    },
+    {
+      "id": "rictic",
+      "size": 1,
+      "y": -37.614064071645885,
+      "x": -33.128403596149,
+      "color": "rgb(20,20,200)",
+      "label": "rictic"
+    },
+    {
+      "id": "RileyA",
+      "size": 1,
+      "y": 27.869635645842436,
+      "x": 12.760810430996159,
+      "color": "rgb(20,20,200)",
+      "label": "RileyA"
+    },
+    {
+      "id": "rltoscano",
+      "size": 1,
+      "y": 3.4095444408572035,
+      "x": 21.792329368875087,
+      "color": "rgb(20,20,200)",
+      "label": "rltoscano"
+    },
+    {
+      "id": "rodmcchesney",
+      "size": 1,
+      "y": -36.63139786567754,
+      "x": -18.13511921942217,
+      "color": "rgb(20,20,200)",
+      "label": "rodmcchesney"
+    },
+    {
+      "id": "ronw",
+      "size": 1,
+      "y": -6.536273610696384,
+      "x": -16.24085235187119,
+      "color": "rgb(20,20,200)",
+      "label": "ronw"
+    },
+    {
+      "id": "roozbehp",
+      "size": 1,
+      "y": -17.827315127359668,
+      "x": 48.92752352961796,
+      "color": "rgb(20,20,200)",
+      "label": "roozbehp"
+    },
+    {
+      "id": "rpereirab",
+      "size": 1,
+      "y": -8.678763542519718,
+      "x": -12.6414168832463,
+      "color": "rgb(20,20,200)",
+      "label": "rpereirab"
+    },
+    {
+      "id": "rsamuelklatchko",
+      "size": 1,
+      "y": 17.428910222105145,
+      "x": 24.970849918806223,
+      "color": "rgb(20,20,200)",
+      "label": "rsamuelklatchko"
+    },
+    {
+      "id": "rsturgell",
+      "size": 1,
+      "y": 2.9507341669272193,
+      "x": -16.285053941147567,
+      "color": "rgb(20,20,200)",
+      "label": "rsturgell"
+    },
+    {
+      "id": "rybosome",
+      "size": 1,
+      "y": 38.92890823554015,
+      "x": 19.417952010830845,
+      "color": "rgb(20,20,200)",
+      "label": "rybosome"
+    },
+    {
+      "id": "s-lip",
+      "size": 1,
+      "y": -38.85595819000211,
+      "x": -14.958434212060624,
+      "color": "rgb(20,20,200)",
+      "label": "s-lip"
+    },
+    {
+      "id": "safarmer",
+      "size": 1,
+      "y": 38.93548477360183,
+      "x": -47.92050960166664,
+      "color": "rgb(20,20,200)",
+      "label": "safarmer"
+    },
+    {
+      "id": "saiyr",
+      "size": 1,
+      "y": -24.480509837607613,
+      "x": 42.64201062796266,
+      "color": "rgb(20,20,200)",
+      "label": "saiyr"
+    },
+    {
+      "id": "sam-mccall",
+      "size": 1,
+      "y": -31.68220993308013,
+      "x": 28.259316579050818,
+      "color": "rgb(20,20,200)",
+      "label": "sam-mccall"
+    },
+    {
+      "id": "samitolvanen",
+      "size": 1,
+      "y": 2.6428692258990267,
+      "x": -1.8190012388035512,
+      "color": "rgb(20,20,200)",
+      "label": "samitolvanen"
+    },
+    {
+      "id": "samliu",
+      "size": 1,
+      "y": 43.72392964322799,
+      "x": 26.204632396689576,
+      "color": "rgb(20,20,200)",
+      "label": "samliu"
+    },
+    {
+      "id": "sashalionheart",
+      "size": 1,
+      "y": 15.161785660460126,
+      "x": 43.235435051545196,
+      "color": "rgb(20,20,200)",
+      "label": "sashalionheart"
+    },
+    {
+      "id": "saxman",
+      "size": 1,
+      "y": 18.63233533479513,
+      "x": 10.043157273758005,
+      "color": "rgb(20,20,200)",
+      "label": "saxman"
+    },
+    {
+      "id": "seanlip",
+      "size": 1,
+      "y": -49.820776283863076,
+      "x": 7.76338832201823,
+      "color": "rgb(20,20,200)",
+      "label": "seanlip"
+    },
+    {
+      "id": "SeawardT",
+      "size": 1,
+      "y": -28.411459379494463,
+      "x": 42.233007254206385,
+      "color": "rgb(20,20,200)",
+      "label": "SeawardT"
+    },
+    {
+      "id": "sebastianbenz",
+      "size": 1,
+      "y": -28.649130193403604,
+      "x": -31.887138114128287,
+      "color": "rgb(20,20,200)",
+      "label": "sebastianbenz"
+    },
+    {
+      "id": "setjmp",
+      "size": 1,
+      "y": 40.30318490615649,
+      "x": 43.410904834356145,
+      "color": "rgb(20,20,200)",
+      "label": "setjmp"
+    },
+    {
+      "id": "sgoldfed",
+      "size": 1,
+      "y": -0.5154382478995814,
+      "x": -44.17699674701001,
+      "color": "rgb(20,20,200)",
+      "label": "sgoldfed"
+    },
+    {
+      "id": "shahms",
+      "size": 1,
+      "y": 21.61525361780548,
+      "x": 39.902453538136086,
+      "color": "rgb(20,20,200)",
+      "label": "shahms"
+    },
+    {
+      "id": "shawnbuso",
+      "size": 1,
+      "y": -47.517448038901854,
+      "x": 33.88163416157377,
+      "color": "rgb(20,20,200)",
+      "label": "shawnbuso"
+    },
+    {
+      "id": "shicks",
+      "size": 1,
+      "y": 47.5760623564171,
+      "x": -22.466780659739516,
+      "color": "rgb(20,20,200)",
+      "label": "shicks"
+    },
+    {
+      "id": "shishkander",
+      "size": 1,
+      "y": -1.1592986633773634,
+      "x": 1.0589677839352731,
+      "color": "rgb(20,20,200)",
+      "label": "shishkander"
+    },
+    {
+      "id": "sigizmund",
+      "size": 1,
+      "y": 17.908410728283997,
+      "x": -49.313532429715636,
+      "color": "rgb(20,20,200)",
+      "label": "sigizmund"
+    },
+    {
+      "id": "silvolu",
+      "size": 1,
+      "y": 38.11041730807382,
+      "x": 12.118945855930555,
+      "color": "rgb(20,20,200)",
+      "label": "silvolu"
+    },
+    {
+      "id": "simonhatch",
+      "size": 1,
+      "y": 35.73498918111481,
+      "x": -14.324961407644729,
+      "color": "rgb(20,20,200)",
+      "label": "simonhatch"
+    },
+    {
+      "id": "sjkirby",
+      "size": 1,
+      "y": 45.69297329761295,
+      "x": 36.63768245695506,
+      "color": "rgb(20,20,200)",
+      "label": "sjkirby"
+    },
+    {
+      "id": "sjlangley",
+      "size": 1,
+      "y": 15.404072799034864,
+      "x": 25.308224147587282,
+      "color": "rgb(20,20,200)",
+      "label": "sjlangley"
+    },
+    {
+      "id": "SLaks",
+      "size": 1,
+      "y": -5.836285299799982,
+      "x": -29.496662760431825,
+      "color": "rgb(20,20,200)",
+      "label": "SLaks"
+    },
+    {
+      "id": "slightlyoff",
+      "size": 1,
+      "y": -19.63068903691444,
+      "x": -4.041124984106872,
+      "color": "rgb(20,20,200)",
+      "label": "slightlyoff"
+    },
+    {
+      "id": "sparkprime",
+      "size": 1,
+      "y": 44.48104349974619,
+      "x": -45.086258299563006,
+      "color": "rgb(20,20,200)",
+      "label": "sparkprime"
+    },
+    {
+      "id": "spearce",
+      "size": 1,
+      "y": 41.6559292845689,
+      "x": 25.237711205305374,
+      "color": "rgb(20,20,200)",
+      "label": "spearce"
+    },
+    {
+      "id": "speednoisemovement",
+      "size": 1,
+      "y": 16.13292944299927,
+      "x": -45.86358830361256,
+      "color": "rgb(20,20,200)",
+      "label": "speednoisemovement"
+    },
+    {
+      "id": "sqrrrl",
+      "size": 1,
+      "y": 34.04893352526233,
+      "x": 45.04865313344695,
+      "color": "rgb(20,20,200)",
+      "label": "sqrrrl"
+    },
+    {
+      "id": "SRabbelier",
+      "size": 1,
+      "y": 38.6569537326792,
+      "x": 0.7543602918280712,
+      "color": "rgb(20,20,200)",
+      "label": "SRabbelier"
+    },
+    {
+      "id": "stanley-cheung",
+      "size": 1,
+      "y": 25.634206054791704,
+      "x": 23.773701493036242,
+      "color": "rgb(20,20,200)",
+      "label": "stanley-cheung"
+    },
+    {
+      "id": "stephenmcd",
+      "size": 1,
+      "y": 19.040182981586113,
+      "x": -43.399808271506224,
+      "color": "rgb(20,20,200)",
+      "label": "stephenmcd"
+    },
+    {
+      "id": "StevenEWright",
+      "size": 1,
+      "y": -49.716925671497805,
+      "x": -35.406106167865644,
+      "color": "rgb(20,20,200)",
+      "label": "StevenEWright"
+    },
+    {
+      "id": "stevogotchi",
+      "size": 1,
+      "y": -45.952537093588234,
+      "x": 12.366086977806532,
+      "color": "rgb(20,20,200)",
+      "label": "stevogotchi"
+    },
+    {
+      "id": "stfairy",
+      "size": 1,
+      "y": -44.05585158391616,
+      "x": -26.763107091688465,
+      "color": "rgb(20,20,200)",
+      "label": "stfairy"
+    },
+    {
+      "id": "stgpetrovic",
+      "size": 1,
+      "y": -28.301268208947626,
+      "x": 4.479874757073887,
+      "color": "rgb(20,20,200)",
+      "label": "stgpetrovic"
+    },
+    {
+      "id": "stinky2nine",
+      "size": 1,
+      "y": -20.096757256245567,
+      "x": 28.430826334484323,
+      "color": "rgb(20,20,200)",
+      "label": "stinky2nine"
+    },
+    {
+      "id": "strelow",
+      "size": 1,
+      "y": 38.55860894782222,
+      "x": -20.34283248396277,
+      "color": "rgb(20,20,200)",
+      "label": "strelow"
+    },
+    {
+      "id": "StuartReavley",
+      "size": 1,
+      "y": 35.29902904829558,
+      "x": -33.77171706362485,
+      "color": "rgb(20,20,200)",
+      "label": "StuartReavley"
+    },
+    {
+      "id": "susi",
+      "size": 1,
+      "y": -24.23963129907373,
+      "x": 10.312826757893603,
+      "color": "rgb(20,20,200)",
+      "label": "susi"
+    },
+    {
+      "id": "szym",
+      "size": 1,
+      "y": -8.611987073275088,
+      "x": 14.053816906962751,
+      "color": "rgb(20,20,200)",
+      "label": "szym"
+    },
+    {
+      "id": "tbetbetbe",
+      "size": 1,
+      "y": -0.6392347280417141,
+      "x": 10.268776987354357,
+      "color": "rgb(20,20,200)",
+      "label": "tbetbetbe"
+    },
+    {
+      "id": "teeler",
+      "size": 1,
+      "y": -40.685330757476024,
+      "x": 0.09787538982205746,
+      "color": "rgb(20,20,200)",
+      "label": "teeler"
+    },
+    {
+      "id": "tekgrrl",
+      "size": 1,
+      "y": -18.410071796470394,
+      "x": -11.519055808712487,
+      "color": "rgb(20,20,200)",
+      "label": "tekgrrl"
+    },
+    {
+      "id": "Temikus",
+      "size": 1,
+      "y": -40.28959405486433,
+      "x": -16.788221237398957,
+      "color": "rgb(20,20,200)",
+      "label": "Temikus"
+    },
+    {
+      "id": "terryma",
+      "size": 1,
+      "y": 3.229960907030325,
+      "x": 7.3903170971346555,
+      "color": "rgb(20,20,200)",
+      "label": "terryma"
+    },
+    {
+      "id": "terryok",
+      "size": 1,
+      "y": 36.66350662547984,
+      "x": -38.63486274394876,
+      "color": "rgb(20,20,200)",
+      "label": "terryok"
+    },
+    {
+      "id": "tfiala-goog",
+      "size": 1,
+      "y": -32.53270442291745,
+      "x": 20.21172686215654,
+      "color": "rgb(20,20,200)",
+      "label": "tfiala-goog"
+    },
+    {
+      "id": "thagikura",
+      "size": 1,
+      "y": 19.247149054194296,
+      "x": 12.155795099040212,
+      "color": "rgb(20,20,200)",
+      "label": "thagikura"
+    },
+    {
+      "id": "thailyn",
+      "size": 1,
+      "y": 25.46835395819687,
+      "x": -47.216992414707114,
+      "color": "rgb(20,20,200)",
+      "label": "thailyn"
+    },
+    {
+      "id": "thobrla",
+      "size": 1,
+      "y": 3.0335484255151215,
+      "x": -46.161623237778436,
+      "color": "rgb(20,20,200)",
+      "label": "thobrla"
+    },
+    {
+      "id": "Tilps",
+      "size": 1,
+      "y": -6.6884295632307555,
+      "x": 40.95836007425187,
+      "color": "rgb(20,20,200)",
+      "label": "Tilps"
+    },
+    {
+      "id": "tmatsuo",
+      "size": 1,
+      "y": 30.062432500815476,
+      "x": 17.85158606213855,
+      "color": "rgb(20,20,200)",
+      "label": "tmatsuo"
+    },
+    {
+      "id": "tomayac",
+      "size": 1,
+      "y": -1.859344103348704,
+      "x": -35.76335251900612,
+      "color": "rgb(20,20,200)",
+      "label": "tomayac"
+    },
+    {
+      "id": "ToxicFrog",
+      "size": 1,
+      "y": -47.02447572746248,
+      "x": 28.236308672216666,
+      "color": "rgb(20,20,200)",
+      "label": "ToxicFrog"
+    },
+    {
+      "id": "tpryan",
+      "size": 1,
+      "y": 37.13073917157415,
+      "x": 15.340288755705316,
+      "color": "rgb(20,20,200)",
+      "label": "tpryan"
+    },
+    {
+      "id": "tstromberg",
+      "size": 1,
+      "y": 31.917829560727924,
+      "x": -11.219043745872106,
+      "color": "rgb(20,20,200)",
+      "label": "tstromberg"
+    },
+    {
+      "id": "unrepentantgeek",
+      "size": 1,
+      "y": 17.75881076094663,
+      "x": -18.806706976944344,
+      "color": "rgb(20,20,200)",
+      "label": "unrepentantgeek"
+    },
+    {
+      "id": "v8",
+      "size": 1,
+      "y": 22.629827551258558,
+      "x": -12.104298621689438,
+      "color": "rgb(20,20,200)",
+      "label": "v8"
+    },
+    {
+      "id": "verwaest",
+      "size": 1,
+      "y": -46.232259400934225,
+      "x": 9.039314070900716,
+      "color": "rgb(20,20,200)",
+      "label": "verwaest"
+    },
+    {
+      "id": "vonture",
+      "size": 1,
+      "y": -2.414908594655195,
+      "x": -20.626675060322363,
+      "color": "rgb(20,20,200)",
+      "label": "vonture"
+    },
+    {
+      "id": "vrandezo",
+      "size": 1,
+      "y": 42.83813207037595,
+      "x": -3.0314730426674217,
+      "color": "rgb(20,20,200)",
+      "label": "vrandezo"
+    },
+    {
+      "id": "vzanotti",
+      "size": 1,
+      "y": -40.78290927536084,
+      "x": 35.95763179845319,
+      "color": "rgb(20,20,200)",
+      "label": "vzanotti"
+    },
+    {
+      "id": "wastl",
+      "size": 1,
+      "y": -34.01529166422317,
+      "x": -30.475164689540858,
+      "color": "rgb(20,20,200)",
+      "label": "wastl"
+    },
+    {
+      "id": "webskate101",
+      "size": 1,
+      "y": 7.783905623492245,
+      "x": 32.3746819417657,
+      "color": "rgb(20,20,200)",
+      "label": "webskate101"
+    },
+    {
+      "id": "wescpy",
+      "size": 1,
+      "y": 10.520412855782155,
+      "x": 18.558336750421617,
+      "color": "rgb(20,20,200)",
+      "label": "wescpy"
+    },
+    {
+      "id": "wibblymat",
+      "size": 1,
+      "y": -35.88358664396385,
+      "x": -1.9308770627190697,
+      "color": "rgb(20,20,200)",
+      "label": "wibblymat"
+    },
+    {
+      "id": "willnorris",
+      "size": 1,
+      "y": 18.8534996901909,
+      "x": 24.180379488901394,
+      "color": "rgb(20,20,200)",
+      "label": "willnorris"
+    },
+    {
+      "id": "wrigri",
+      "size": 1,
+      "y": 25.288767931232798,
+      "x": 49.2444779480124,
+      "color": "rgb(20,20,200)",
+      "label": "wrigri"
+    },
+    {
+      "id": "xylo04",
+      "size": 1,
+      "y": 7.796611009133734,
+      "x": -19.284674712970318,
+      "color": "rgb(20,20,200)",
+      "label": "xylo04"
+    },
+    {
+      "id": "xyzzyz",
+      "size": 1,
+      "y": 33.07901052495818,
+      "x": -10.48770091639146,
+      "color": "rgb(20,20,200)",
+      "label": "xyzzyz"
+    },
+    {
+      "id": "yesthatguy",
+      "size": 1,
+      "y": -14.047707805316435,
+      "x": -21.072689070525307,
+      "color": "rgb(20,20,200)",
+      "label": "yesthatguy"
+    },
+    {
+      "id": "yjbanov",
+      "size": 1,
+      "y": 35.19363163453687,
+      "x": -16.866296084931896,
+      "color": "rgb(20,20,200)",
+      "label": "yjbanov"
+    },
+    {
+      "id": "yovadia12",
+      "size": 1,
+      "y": 6.250958928967179,
+      "x": 16.26839641180409,
+      "color": "rgb(20,20,200)",
+      "label": "yovadia12"
+    },
+    {
+      "id": "yukawa",
+      "size": 1,
+      "y": -15.386842053663294,
+      "x": -40.85638841904873,
+      "color": "rgb(20,20,200)",
+      "label": "yukawa"
+    },
+    {
+      "id": "zeptonaut",
+      "size": 1,
+      "y": 19.974118363255826,
+      "x": -13.063504931563862,
+      "color": "rgb(20,20,200)",
+      "label": "zeptonaut"
+    },
+    {
+      "id": "ziegs",
+      "size": 1,
+      "y": -11.328253925886514,
+      "x": -46.14350814305471,
+      "color": "rgb(20,20,200)",
+      "label": "ziegs"
+    },
+    {
+      "id": "ziyadm",
+      "size": 1,
+      "y": -3.926458127653696,
+      "x": -42.70276544945884,
+      "color": "rgb(20,20,200)",
+      "label": "ziyadm"
+    },
+    {
+      "id": "Zoramite",
+      "size": 1,
+      "y": 9.647851750965017,
+      "x": 37.85753683464553,
+      "color": "rgb(20,20,200)",
+      "label": "Zoramite"
+    },
+    {
+      "id": "zwilt",
+      "size": 1,
+      "y": -28.427478769115368,
+      "x": -38.25049581974308,
+      "color": "rgb(20,20,200)",
+      "label": "zwilt"
+    },
+    {
+      "id": "luci",
+      "size": 3,
+      "y": -15.133668302498645,
+      "x": 18.048906461838577,
+      "color": "rgb(200,20,20)",
+      "label": "luci"
+    },
+    {
+      "id": "aichallenge",
+      "size": 3,
+      "y": 13.458937154385481,
+      "x": -6.040060341483091,
+      "color": "rgb(200,20,20)",
+      "label": "aichallenge"
+    },
+    {
+      "id": "bitletorg",
+      "size": 3,
+      "y": 0.3260654825696747,
+      "x": 14.40911760214535,
+      "color": "rgb(200,20,20)",
+      "label": "bitletorg"
+    },
+    {
+      "id": "whatwg",
+      "size": 3,
+      "y": 11.123546107771244,
+      "x": 14.259150758573519,
+      "color": "rgb(200,20,20)",
+      "label": "whatwg"
+    },
+    {
+      "id": "UCL",
+      "size": 3,
+      "y": 4.9062393511953495,
+      "x": 7.2835666982455365,
+      "color": "rgb(200,20,20)",
+      "label": "UCL"
+    },
+    {
+      "id": "grid4hpc",
+      "size": 3,
+      "y": 7.180487658166506,
+      "x": 11.841956036652228,
+      "color": "rgb(200,20,20)",
+      "label": "grid4hpc"
+    },
+    {
+      "id": "bdhero",
+      "size": 3,
+      "y": 1.4617755929138667,
+      "x": -9.30712509253059,
+      "color": "rgb(200,20,20)",
+      "label": "bdhero"
+    },
+    {
+      "id": "assimp",
+      "size": 3,
+      "y": 11.244752935870782,
+      "x": 8.168009591026419,
+      "color": "rgb(200,20,20)",
+      "label": "assimp"
+    },
+    {
+      "id": "ganeti",
+      "size": 3,
+      "y": -14.934247027788272,
+      "x": 11.557871654967563,
+      "color": "rgb(200,20,20)",
+      "label": "ganeti"
+    },
+    {
+      "id": "GoogleCloudPlatform",
+      "size": 3,
+      "y": 12.351247559732023,
+      "x": -7.473586327151999,
+      "color": "rgb(200,20,20)",
+      "label": "GoogleCloudPlatform"
+    },
+    {
+      "id": "Polymer",
+      "size": 3,
+      "y": -18.22571620787876,
+      "x": -3.680468758873033,
+      "color": "rgb(200,20,20)",
+      "label": "Polymer"
+    },
+    {
+      "id": "noosbox",
+      "size": 3,
+      "y": 15.007942179719947,
+      "x": -6.289648871535082,
+      "color": "rgb(200,20,20)",
+      "label": "noosbox"
+    },
+    {
+      "id": "youtube",
+      "size": 3,
+      "y": 19.822847254130565,
+      "x": 15.112500465265398,
+      "color": "rgb(200,20,20)",
+      "label": "youtube"
+    },
+    {
+      "id": "googleads",
+      "size": 3,
+      "y": -19.194229167730796,
+      "x": -7.641237717155715,
+      "color": "rgb(200,20,20)",
+      "label": "googleads"
+    },
+    {
+      "id": "apache",
+      "size": 3,
+      "y": -7.335494309259056,
+      "x": 17.03287507582761,
+      "color": "rgb(200,20,20)",
+      "label": "apache"
+    },
+    {
+      "id": "facebook",
+      "size": 3,
+      "y": 19.650339807815918,
+      "x": -7.351467725629162,
+      "color": "rgb(200,20,20)",
+      "label": "facebook"
+    },
+    {
+      "id": "mochi",
+      "size": 3,
+      "y": 18.585643577163907,
+      "x": 12.225041702792247,
+      "color": "rgb(200,20,20)",
+      "label": "mochi"
+    },
+    {
+      "id": "tc39",
+      "size": 3,
+      "y": -5.6963237338162465,
+      "x": -15.423275345772511,
+      "color": "rgb(200,20,20)",
+      "label": "tc39"
+    },
+    {
+      "id": "barnowl",
+      "size": 3,
+      "y": 17.684455106805814,
+      "x": 3.243546982108441,
+      "color": "rgb(200,20,20)",
+      "label": "barnowl"
+    },
+    {
+      "id": "sipb",
+      "size": 3,
+      "y": 10.96454646648209,
+      "x": 12.812765135186645,
+      "color": "rgb(200,20,20)",
+      "label": "sipb"
+    },
+    {
+      "id": "qitab",
+      "size": 3,
+      "y": 1.4432721820346437,
+      "x": 16.748037503950357,
+      "color": "rgb(200,20,20)",
+      "label": "qitab"
+    },
+    {
+      "id": "wtg",
+      "size": 3,
+      "y": 11.726544942856254,
+      "x": -12.330279366720113,
+      "color": "rgb(200,20,20)",
+      "label": "wtg"
+    },
+    {
+      "id": "concerto",
+      "size": 3,
+      "y": -11.052457991290305,
+      "x": 3.4943264285911866,
+      "color": "rgb(200,20,20)",
+      "label": "concerto"
+    },
+    {
+      "id": "innio",
+      "size": 3,
+      "y": 4.755081846712397,
+      "x": -18.87381551458319,
+      "color": "rgb(200,20,20)",
+      "label": "innio"
+    },
+    {
+      "id": "CSC495",
+      "size": 3,
+      "y": -11.704004190859862,
+      "x": 8.630710841353796,
+      "color": "rgb(200,20,20)",
+      "label": "CSC495"
+    },
+    {
+      "id": "GoogleChrome",
+      "size": 3,
+      "y": 7.433873647880166,
+      "x": -0.6170128657168021,
+      "color": "rgb(200,20,20)",
+      "label": "GoogleChrome"
+    },
+    {
+      "id": "GNOME",
+      "size": 3,
+      "y": -7.750421224128816,
+      "x": -18.82905167519675,
+      "color": "rgb(200,20,20)",
+      "label": "GNOME"
+    },
+    {
+      "id": "fontforge",
+      "size": 3,
+      "y": 1.1821898147214895,
+      "x": -12.222744099913129,
+      "color": "rgb(200,20,20)",
+      "label": "fontforge"
+    },
+    {
+      "id": "googlei18n",
+      "size": 3,
+      "y": -14.98526345295545,
+      "x": 4.234662412872915,
+      "color": "rgb(200,20,20)",
+      "label": "googlei18n"
+    },
+    {
+      "id": "googlefonts",
+      "size": 3,
+      "y": -16.236210864680977,
+      "x": -8.070754832054362,
+      "color": "rgb(200,20,20)",
+      "label": "googlefonts"
+    },
+    {
+      "id": "PANIC-Project",
+      "size": 3,
+      "y": 8.918926810404827,
+      "x": 17.291562530577345,
+      "color": "rgb(200,20,20)",
+      "label": "PANIC-Project"
+    },
+    {
+      "id": "WebGLTools",
+      "size": 3,
+      "y": 12.136732809775495,
+      "x": 8.223146899964348,
+      "color": "rgb(200,20,20)",
+      "label": "WebGLTools"
+    },
+    {
+      "id": "googlemaps",
+      "size": 3,
+      "y": -4.533107047400161,
+      "x": -16.47330262448984,
+      "color": "rgb(200,20,20)",
+      "label": "googlemaps"
+    },
+    {
+      "id": "PolymerLabs",
+      "size": 3,
+      "y": 11.363157436737687,
+      "x": -17.325370350947303,
+      "color": "rgb(200,20,20)",
+      "label": "PolymerLabs"
+    },
+    {
+      "id": "angular",
+      "size": 3,
+      "y": 12.409889225228866,
+      "x": 11.84891087057705,
+      "color": "rgb(200,20,20)",
+      "label": "angular"
+    },
+    {
+      "id": "yeoman",
+      "size": 3,
+      "y": 11.230825722974455,
+      "x": -7.768848384032516,
+      "color": "rgb(200,20,20)",
+      "label": "yeoman"
+    },
+    {
+      "id": "karma-runner",
+      "size": 3,
+      "y": -8.835502592945437,
+      "x": -11.173693392981562,
+      "color": "rgb(200,20,20)",
+      "label": "karma-runner"
+    },
+    {
+      "id": "angularjs-in-action",
+      "size": 3,
+      "y": -16.13488901684267,
+      "x": 5.341261275128314,
+      "color": "rgb(200,20,20)",
+      "label": "angularjs-in-action"
+    },
+    {
+      "id": "UnicornConf",
+      "size": 3,
+      "y": 8.427906617661968,
+      "x": -16.08748090435048,
+      "color": "rgb(200,20,20)",
+      "label": "UnicornConf"
+    },
+    {
+      "id": "meatspaces",
+      "size": 3,
+      "y": -0.5314471547196646,
+      "x": 6.787181562698965,
+      "color": "rgb(200,20,20)",
+      "label": "meatspaces"
+    },
+    {
+      "id": "deprecate",
+      "size": 3,
+      "y": 14.728255192635594,
+      "x": 9.358023214507757,
+      "color": "rgb(200,20,20)",
+      "label": "deprecate"
+    },
+    {
+      "id": "revisitors",
+      "size": 3,
+      "y": 16.838803263638567,
+      "x": 3.9378752835496265,
+      "color": "rgb(200,20,20)",
+      "label": "revisitors"
+    },
+    {
+      "id": "html5stuco",
+      "size": 3,
+      "y": -10.818450378134798,
+      "x": 3.1376920168494316,
+      "color": "rgb(200,20,20)",
+      "label": "html5stuco"
+    },
+    {
+      "id": "TweetBeats",
+      "size": 3,
+      "y": 15.798292208535841,
+      "x": 7.222178196379883,
+      "color": "rgb(200,20,20)",
+      "label": "TweetBeats"
+    },
+    {
+      "id": "apportable",
+      "size": 3,
+      "y": 16.85110772290914,
+      "x": -19.730691432581096,
+      "color": "rgb(200,20,20)",
+      "label": "apportable"
+    },
+    {
+      "id": "webrtc",
+      "size": 3,
+      "y": 0.8031965329280624,
+      "x": -3.347449990445405,
+      "color": "rgb(200,20,20)",
+      "label": "webrtc"
+    },
+    {
+      "id": "MobileChromeApps",
+      "size": 3,
+      "y": 15.949351334738594,
+      "x": 4.596977890114733,
+      "color": "rgb(200,20,20)",
+      "label": "MobileChromeApps"
+    },
+    {
+      "id": "jsconf",
+      "size": 3,
+      "y": 2.157463661643071,
+      "x": -3.386896653428675,
+      "color": "rgb(200,20,20)",
+      "label": "jsconf"
+    },
+    {
+      "id": "BUILDS-",
+      "size": 3,
+      "y": 11.558189191042224,
+      "x": -13.3929732995961,
+      "color": "rgb(200,20,20)",
+      "label": "BUILDS-"
+    },
+    {
+      "id": "pagespeed",
+      "size": 3,
+      "y": -10.732431475276343,
+      "x": -1.699185326283068,
+      "color": "rgb(200,20,20)",
+      "label": "pagespeed"
+    },
+    {
+      "id": "Algorithmix",
+      "size": 3,
+      "y": 3.0112693242879445,
+      "x": -12.288854439296015,
+      "color": "rgb(200,20,20)",
+      "label": "Algorithmix"
+    },
+    {
+      "id": "DMDirc",
+      "size": 3,
+      "y": 10.849650132378898,
+      "x": 2.8993863511022226,
+      "color": "rgb(200,20,20)",
+      "label": "DMDirc"
+    },
+    {
+      "id": "grpc",
+      "size": 3,
+      "y": 8.966875487612903,
+      "x": -6.653334951947421,
+      "color": "rgb(200,20,20)",
+      "label": "grpc"
+    },
+    {
+      "id": "hackandtell",
+      "size": 3,
+      "y": -1.1842467917027264,
+      "x": -19.95563675531654,
+      "color": "rgb(200,20,20)",
+      "label": "hackandtell"
+    },
+    {
+      "id": "recursecenter",
+      "size": 3,
+      "y": 19.17124300764823,
+      "x": -4.153392455218423,
+      "color": "rgb(200,20,20)",
+      "label": "recursecenter"
+    },
+    {
+      "id": "znc",
+      "size": 3,
+      "y": -19.946176567020643,
+      "x": 13.009785717016484,
+      "color": "rgb(200,20,20)",
+      "label": "znc"
+    },
+    {
+      "id": "cluenet",
+      "size": 3,
+      "y": 2.4420519639110374,
+      "x": -4.045841319384632,
+      "color": "rgb(200,20,20)",
+      "label": "cluenet"
+    },
+    {
+      "id": "ircv3",
+      "size": 3,
+      "y": 12.033717368212507,
+      "x": -2.5304767047909102,
+      "color": "rgb(200,20,20)",
+      "label": "ircv3"
+    },
+    {
+      "id": "fontclod",
+      "size": 3,
+      "y": -11.40539683033429,
+      "x": -17.474942245295463,
+      "color": "rgb(200,20,20)",
+      "label": "fontclod"
+    },
+    {
+      "id": "metapolator",
+      "size": 3,
+      "y": -5.969413249282329,
+      "x": -3.8609724220737895,
+      "color": "rgb(200,20,20)",
+      "label": "metapolator"
+    },
+    {
+      "id": "librefonts",
+      "size": 3,
+      "y": 9.656198889428204,
+      "x": -14.721897945495428,
+      "color": "rgb(200,20,20)",
+      "label": "librefonts"
+    },
+    {
+      "id": "azkaban",
+      "size": 3,
+      "y": 12.785708108238921,
+      "x": 16.256487148138035,
+      "color": "rgb(200,20,20)",
+      "label": "azkaban"
+    },
+    {
+      "id": "linkedin",
+      "size": 3,
+      "y": 11.914332264178555,
+      "x": -1.1538457089392828,
+      "color": "rgb(200,20,20)",
+      "label": "linkedin"
+    },
+    {
+      "id": "gersteinlab",
+      "size": 3,
+      "y": -7.021913248406001,
+      "x": 7.937143767748939,
+      "color": "rgb(200,20,20)",
+      "label": "gersteinlab"
+    },
+    {
+      "id": "EpicGames",
+      "size": 3,
+      "y": 7.799458503942972,
+      "x": -2.540035102860042,
+      "color": "rgb(200,20,20)",
+      "label": "EpicGames"
+    },
+    {
+      "id": "Sage-Bionetworks",
+      "size": 3,
+      "y": -7.666530139459432,
+      "x": 13.339131334400584,
+      "color": "rgb(200,20,20)",
+      "label": "Sage-Bionetworks"
+    },
+    {
+      "id": "basespace",
+      "size": 3,
+      "y": -19.675559706876445,
+      "x": 0.24912948038334548,
+      "color": "rgb(200,20,20)",
+      "label": "basespace"
+    },
+    {
+      "id": "googlegenomics",
+      "size": 3,
+      "y": 6.466703191347385,
+      "x": -3.8303056609920816,
+      "color": "rgb(200,20,20)",
+      "label": "googlegenomics"
+    },
+    {
+      "id": "tinyos",
+      "size": 3,
+      "y": 9.801644399175366,
+      "x": 17.36764729992008,
+      "color": "rgb(200,20,20)",
+      "label": "tinyos"
+    },
+    {
+      "id": "kamibu",
+      "size": 3,
+      "y": -16.760297404540676,
+      "x": -3.911721636036553,
+      "color": "rgb(200,20,20)",
+      "label": "kamibu"
+    },
+    {
+      "id": "grnet",
+      "size": 3,
+      "y": 10.829710019832987,
+      "x": 19.38056800262561,
+      "color": "rgb(200,20,20)",
+      "label": "grnet"
+    },
+    {
+      "id": "darkwallet",
+      "size": 3,
+      "y": -0.6508531140862708,
+      "x": 9.775910752734017,
+      "color": "rgb(200,20,20)",
+      "label": "darkwallet"
+    },
+    {
+      "id": "okTurtles",
+      "size": 3,
+      "y": -4.849250157870415,
+      "x": 12.023714193875321,
+      "color": "rgb(200,20,20)",
+      "label": "okTurtles"
+    },
+    {
+      "id": "OpenBazaar",
+      "size": 3,
+      "y": 5.544970533084047,
+      "x": -7.048473933731735,
+      "color": "rgb(200,20,20)",
+      "label": "OpenBazaar"
+    },
+    {
+      "id": "TempusMUD",
+      "size": 3,
+      "y": 7.206548728697943,
+      "x": -13.865801226060475,
+      "color": "rgb(200,20,20)",
+      "label": "TempusMUD"
+    },
+    {
+      "id": "MediaWiki-Bot",
+      "size": 3,
+      "y": 12.124308280254382,
+      "x": 13.24381569302269,
+      "color": "rgb(200,20,20)",
+      "label": "MediaWiki-Bot"
+    },
+    {
+      "id": "perl-doc-cats",
+      "size": 3,
+      "y": -12.325815326697853,
+      "x": -11.519374220105284,
+      "color": "rgb(200,20,20)",
+      "label": "perl-doc-cats"
+    },
+    {
+      "id": "marcel-maint",
+      "size": 3,
+      "y": -6.902942273890913,
+      "x": -10.371405795031649,
+      "color": "rgb(200,20,20)",
+      "label": "marcel-maint"
+    },
+    {
+      "id": "openleap",
+      "size": 3,
+      "y": 13.090250022048586,
+      "x": -13.739258785356068,
+      "color": "rgb(200,20,20)",
+      "label": "openleap"
+    },
+    {
+      "id": "code4sac",
+      "size": 3,
+      "y": -2.8165475003886407,
+      "x": -18.016460580683017,
+      "color": "rgb(200,20,20)",
+      "label": "code4sac"
+    },
+    {
+      "id": "junit-team",
+      "size": 3,
+      "y": 10.87859768747704,
+      "x": 14.690996035670793,
+      "color": "rgb(200,20,20)",
+      "label": "junit-team"
+    }
+  ]
+}

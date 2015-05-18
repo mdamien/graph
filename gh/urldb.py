@@ -1,3 +1,6 @@
+"""
+Cache GET requests in the file system
+"""
 import requests, unicodedata, re, os.path
 
 DIR = "HTML"

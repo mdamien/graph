@@ -1,19 +1,17 @@
 import json, urldb
 from bs4 import BeautifulSoup
 
-OUT_FILE = "data/github.json"
 PREFIX = "https://github.com"
+OUT_FILE = 'data/raw.json'
 
 def load_graph():
-    graph = {}
+    graph = []
     try:
         with open(OUT_FILE) as f:
-            json.load(f)
+            graph = json.load(f)
     except:
         print(OUT_FILE,"not found")
     return graph
-
-GRAPH = load_graph()
 
 def scrape_org_people(orgname):
     members = []
@@ -66,13 +64,57 @@ def scrape_user(username):
     user['orgs'] = orgs
     return user
 
-def main():
+def orgs(graph):
+    return set([x['orgname'] for x in graph
+            if x['type'] == "org"])
+
+def users(graph):
+    return set([x['username'] for x in graph
+            if x['type'] == "user"])
+
+def users_orgs(graph):
+    orgs = [x['orgs'] for x in graph if x['type'] == "user"]
+    return set(sum(orgs,[]))
+
+def orgs_users(graph):
+    users = [x['members'] for x in graph if x['type'] == "org"]
+    return set(sum(users,[]))
+
+
+def save_graph(graph):
+    with open(OUT_FILE,'w') as f:
+        json.dump(graph,f,indent=2)
+    with open(OUT_FILE+".cold",'w') as f:
+        json.dump(graph,f,indent=2)
+
+def bootstrap():
     graph = []
     org = scrape_org("google")
     graph.append(org)
     for username in org['members']:
         user = scrape_user(username)
         graph.append(user)
-    print(graph)
+    
+    with open(OUT_FILE,'w') as f:
+        json.dump(graph,f,indent=2)
 
-main()
+def main():
+    graph = load_graph()
+    print(users_orgs(graph))
+    orgs_to_scrape = users_orgs(graph)-orgs(graph)
+    for orgname in orgs_to_scrape:
+        try:
+            org = scrape_org(orgname)
+            graph.append(org)
+            save_graph(graph)
+        except Exception as e:
+            print('skip',orgname,e)
+
+    user_to_scrape = orgs_users(graph)-users(graph)
+    for username in user_to_scrape:
+        user = scrape_user(username)
+        graph.append(user)
+        save_graph(graph)
+
+if __name__ == "__main__":
+    main()
