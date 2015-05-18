@@ -6,6 +6,7 @@ nodes_added = set()
 nodes = []
 edges_added = set()
 edges = []
+count = {'org':0,'user':0}
 
 def add_edge(orgname, username):
     if orgname not in nodes_added:
@@ -19,6 +20,7 @@ def add_edge(orgname, username):
         }
         nodes.append(node)
         nodes_added.add(orgname)
+        count['org'] += 1
 
     if username not in nodes_added:
         node = {
@@ -31,6 +33,7 @@ def add_edge(orgname, username):
         }
         nodes.append(node)
         nodes_added.add(username)
+        count['user'] += 1
 
     edgename = username+"-"+orgname
     if edgename not in edges_added:
@@ -51,11 +54,12 @@ for i, el in enumerate(graph):
         for org in el['orgs']:
             add_edge(org, el['username'])
 
-    if i > 100:
-        break
+#    if i > 100:
+#        break
 
 print(len(edges),"edges")
 print(len(nodes),"nodes")
+print('counts',count)
 
 with open('data/graph.json','w') as f:
     json.dump({
