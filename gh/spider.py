@@ -107,14 +107,19 @@ def main():
             org = scrape_org(orgname)
             graph.append(org)
             save_graph(graph)
+            print(len(graph))
         except Exception as e:
             print('skip',orgname,e)
 
     user_to_scrape = orgs_users(graph)-users(graph)
     for username in user_to_scrape:
-        user = scrape_user(username)
-        graph.append(user)
-        save_graph(graph)
+        try:
+            user = scrape_user(username)
+            graph.append(user)
+            save_graph(graph)
+            print(len(graph))
+        except Exception as e:
+            print('skip',orgname,e)
 
 if __name__ == "__main__":
     main()
