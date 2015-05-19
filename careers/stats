@@ -1,49 +1,49 @@
 
-stats team
+stats team    -    1138 values, 84 distincts
 ----
-253 Sales & Account Management
-90 Program Management
-83 Sales Operations
-78 Technical Solutions
-73 Marketing & Communications
-73 Partnerships
-51 People Operations
-50 Hardware Engineering
-50 Technical Infrastructure
-34 Software Engineering
+253 (22.2%) Sales & Account Management
+90 (7.9%) Program Management
+83 (7.3%) Sales Operations
+78 (6.9%) Technical Solutions
+73 (6.4%) Partnerships
+73 (6.4%) Marketing & Communications
+51 (4.5%) People Operations
+50 (4.4%) Hardware Engineering
+50 (4.4%) Technical Infrastructure
+34 (3.0%) Software Engineering
 
 
-stats title
+stats title    -    1138 values, 1043 distincts
 ----
-4 Manager, gTech Ads Global Support
-3 Support Specialist, gTech Ads
-3 Technical Program Manager, Corporate Network Systems Engineering
-3 Interaction Designer
-3 Business Development Manager, Google Play Apps and Games
-3 Account Manager, Online Partnerships Group (OPG)
-3 Support Specialist (Multiple Languages Available), Global Support Team
-3 Account Manager, Automotive, Global Client and Agency Solutions (GCAS)
-3 Logistics Associate, Retail Operations
-3 Industry Manager, Large Customer Sales
+4 (0.4%) Manager, gTech Ads Global Support
+3 (0.3%) gTech Ads Global Support Manager
+3 (0.3%) Interaction Designer
+3 (0.3%) Business Development Manager, Google Play Apps and Games
+3 (0.3%) Technical Program Manager, Corporate Network Systems Engineering
+3 (0.3%) Brand Coordinator
+3 (0.3%) Support Specialist, gTech Ads
+3 (0.3%) Industry Manager, Large Customer Sales
+3 (0.3%) Logistics Associate, Retail Operations
+3 (0.3%) Account Manager, Automotive, Global Client and Agency Solutions (GCAS)
 
 
-stats type
+stats type    -    1138 values, 3 distincts
 ----
-1122 Full-time
-14 Intern
-2 Part-time
+1122 (98.6%) Full-time
+14 (1.2%) Intern
+2 (0.2%) Part-time
 
 
-stats locations
+stats locations    -    1138 values, 107 distincts
 ----
-431 Mountain View, CA, USA
-100 Dublin, Ireland
-67 Tokyo, Japan
-56 London Borough of Islington, London, UK
-53 New York, NY, USA
-38 Singapore
-30  New York, NY, USA
-25 Sydney, Australia
-23 San Francisco, CA, USA
-22 Toronto, ON, Canada
+431 (37.9%) Mountain View, CA, USA
+100 (8.8%) Dublin, Ireland
+67 (5.9%) Tokyo, Japan
+56 (4.9%) London Borough of Islington, London, UK
+53 (4.7%) New York, NY, USA
+38 (3.3%) Singapore
+30 (2.6%)  New York, NY, USA
+25 (2.2%) Sydney, Australia
+23 (2.0%) San Francisco, CA, USA
+22 (1.9%) Toronto, ON, Canada
 
