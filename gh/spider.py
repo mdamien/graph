@@ -23,16 +23,6 @@ def scrape_org_people(orgname):
         soup = BeautifulSoup(html)
         prev_len = len(members)
         for member in soup.find_all('div',{'class':'member-info'}):
-            """
-            infos = {}
-            img = member.find('img')
-            infos['img'] = img.attrs['src']
-            infos['id'] = img.attrs['data-user']
-            infos['username'] = member.find('strong').text.strip()
-            full_name = member.find('span').text.strip()
-            if full_name != "":
-                infos['full_name'] = full_name
-            """
             username = member.find('strong').text.strip()
             members.append(username)
         if len(members) == prev_len:

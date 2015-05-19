@@ -4,22 +4,22 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 
-
 driver = webdriver.Firefox()
-driver.get("https://www.google.com/about/careers/search#t=sq&q=j&so=dt_d&li=10&st=0&")
+driver.get("https://www.google.com/about/careers/search#t=sq&q=j&so=dt_d&li=10&st=820&")
 
 wait = WebDriverWait(driver, 10)
 element = wait.until(EC.presence_of_element_located((By.CLASS_NAME,'kd-count')))
+
 
 #click first link
 driver.find_element_by_css_selector('.title.heading.sr-title').click()
 
 #save page by page
-i = 0
+i = 900
 while True:
     prev_title = ""
     element = wait.until(EC.presence_of_element_located((By.CLASS_NAME,'kd-count')))
-    print(driver.title)
+    print(i,driver.title)
     if prev_title == driver.title:
         break
     prev_title = driver.title
