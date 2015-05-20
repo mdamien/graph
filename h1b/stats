@@ -1,0 +1,77 @@
+
+case_status    -    6978 values, 3 distincts
+----
+96.2% (6714) CERTIFIED
+2.1% (146) WITHDRAWN
+1.7% (118) DENIED
+
+
+title    -    6978 values, 514 distincts
+----
+67.4% (4704) SOFTWARE ENGINEER
+3.5% (244) SOFTWARE ENGINEER IN TEST
+1.7% (119) PRODUCT MANAGER
+1.1% (74) TEST ENGINEER
+1.0% (72) PROGRAM MANAGER
+0.9% (66) BUSINESS SYSTEMS INTEGRATOR
+0.8% (58) QUANTITATIVE ANALYST
+0.8% (57) HARDWARE ENGINEER
+0.7% (48) TECHNICAL PROGRAM MANAGER
+0.6% (43) FINANCIAL ANALYST
+
+
+location    -    6978 values, 56 distincts
+----
+75.4% (5262) MOUNTAIN VIEW, CA
+9.3% (647) NEW YORK, NY
+2.8% (198) SAN BRUNO, CA
+2.4% (170) KIRKLAND, WA
+1.7% (116) SAN FRANCISCO, CA
+1.6% (111) PALO ALTO, CA
+1.5% (107) SEATTLE, WA
+0.9% (63) CAMBRIDGE, MA
+0.8% (56) SUNNYVALE, CA
+0.5% (37) PITTSBURGH, PA
+
+
+salary    -    6978 values, 891 distincts
+----
+12.2% (852) 105000
+8.2% (570) 110000
+6.6% (463) 127000
+6.0% (416) 100000
+3.5% (246) 120000
+3.3% (230) 115000
+3.2% (221) 130000
+2.8% (194) 135000
+2.7% (190) 125000
+2.3% (162) 140000
+
+
+submit_month    -    6978 values, 12 distincts
+----
+31.9% (2228) 02
+26.3% (1838) 03
+5.9% (411) 01
+4.8% (333) 05
+4.5% (314) 04
+4.1% (287) 07
+4.0% (282) 10
+4.0% (279) 08
+3.9% (269) 09
+3.8% (265) 06
+
+
+start_month    -    6978 values, 12 distincts
+----
+32.9% (2299) 08
+19.8% (1384) 09
+9.9% (692) 07
+7.1% (492) 10
+4.9% (339) 06
+4.3% (297) 01
+4.2% (290) 03
+3.6% (252) 02
+3.5% (247) 11
+3.4% (235) 04
+

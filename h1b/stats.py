@@ -3,15 +3,16 @@ from collections import Counter
 
 ads = json.load(open('data/parsed.json'))
 
-def stats(arr,key):
+def stats(arr,key,keygetter=lambda el, key:el[key]):
     def flat(arr):
         for x in arr:
             if type(x) == type([]):
                 yield from flat(x)
             else:
+                x = str(x)
                 yield x.strip()
 
-    c = Counter(flat([el[key] for el in arr]))
+    c = Counter(flat([keygetter(el,key) for el in arr]))
 
     count_all = len(arr)
     count_distinct = len(c)
@@ -24,8 +25,10 @@ def stats(arr,key):
         print("{:.1f}% ({}) {}".format(p,n,el))
     print()
 
+stats(ads,"case_status")
 stats(ads,"title")
-stats(ads,"level")
-stats(ads,"teams")
-stats(ads,"type")
-stats(ads,"locations")
+stats(ads,"location")
+stats(ads,"salary")
+stats(ads,"submit_month",lambda el,key:el["submit_date"].split('/')[0])
+stats(ads,"start_month",lambda el,key:el["start_date"].split('/')[0])
+
