@@ -4,6 +4,8 @@ from pprint import pprint as pp
 
 data = []
 
+ids = set()
+
 for root, dirs, files in os.walk("PAGES/"):
     files = list(files)
     for i, name in enumerate(files):
@@ -14,7 +16,14 @@ for root, dirs, files in os.walk("PAGES/"):
             soup = BeautifulSoup(f)
             ad['title'] = soup.title.text
             container = soup.find(class_="detail-a")
+            if container == None:
+                print('bad file',filename)
+                continue
             title = container.find("a")
+            ad['id'] = int(container.attrs['id'])
+            if ad['id'] in ids:
+                continue
+            ids.add(ad['id'])
 
             for div in soup.find_all(class_='detail-content'):
                 info = div.find(class_='info-text')
@@ -23,14 +32,12 @@ for root, dirs, files in os.walk("PAGES/"):
 
                     get = lambda x:x.find(class_='info-text').text.strip()
 
-                    ad['team'] = get(divs[0])
+                    ad['teams'] = get(divs[0]).split(';')
                     ad['type'] = get(divs[1])
                     ad['level'] = get(divs[2])
-                    ad['salary'] = get(divs[3])
+                    #ad['salary'] = get(divs[3])
                     ad['last_updated'] = get(divs[4])
                     ad['locations'] = get(divs[5]).split(';')
-
-            pp(ad)
             ad['text'] = container.find_all(class_='detail-item')[2].text
         data.append(ad)
         if i % 10 == 0:

@@ -1,49 +1,55 @@
 
-stats team    -    1138 values, 84 distincts
+teams    -    1948 values, 24 distincts
 ----
-253 (22.2%) Sales & Account Management
-90 (7.9%) Program Management
-83 (7.3%) Sales Operations
-78 (6.9%) Technical Solutions
-73 (6.4%) Partnerships
-73 (6.4%) Marketing & Communications
-51 (4.5%) People Operations
-50 (4.4%) Hardware Engineering
-50 (4.4%) Technical Infrastructure
-34 (3.0%) Software Engineering
+18.4% (358) Sales & Account Management
+11.5% (224) Technical Infrastructure
+10.8% (211) Program Management
+8.9% (174) Technical Solutions
+8.5% (166) Software Engineering
+7.2% (140) Sales Operations
+6.4% (124) Partnerships
+5.9% (114) Marketing & Communications
+4.8% (93) Hardware Engineering
+4.6% (89) Network Engineering
 
 
-stats title    -    1138 values, 1043 distincts
+title    -    1948 values, 1645 distincts
 ----
-4 (0.4%) Manager, gTech Ads Global Support
-3 (0.3%) gTech Ads Global Support Manager
-3 (0.3%) Interaction Designer
-3 (0.3%) Business Development Manager, Google Play Apps and Games
-3 (0.3%) Technical Program Manager, Corporate Network Systems Engineering
-3 (0.3%) Brand Coordinator
-3 (0.3%) Support Specialist, gTech Ads
-3 (0.3%) Industry Manager, Large Customer Sales
-3 (0.3%) Logistics Associate, Retail Operations
-3 (0.3%) Account Manager, Automotive, Global Client and Agency Solutions (GCAS)
+1.3% (25) Software Engineer
+0.6% (12) Software Engineer in Test
+0.5% (10) Systems Engineer, Site Reliability Engineering
+0.5% (9) Software Engineer, University Graduate
+0.5% (9) Front End Software Engineer
+0.5% (9) Ad Solutions Engineer
+0.4% (8) Software Engineer, Site Reliability Engineering
+0.4% (8) Product Manager
+0.4% (7) Search - Google Careers
+0.3% (6) Engineering Manager, Site Reliability Engineering
 
 
-stats type    -    1138 values, 3 distincts
+level    -    1948 values, 2 distincts
 ----
-1122 (98.6%) Full-time
-14 (1.2%) Intern
-2 (0.2%) Part-time
+95.1% (1852) 
+4.9% (96) PURSUING_DEGREE
 
 
-stats locations    -    1138 values, 107 distincts
+type    -    1948 values, 3 distincts
 ----
-431 (37.9%) Mountain View, CA, USA
-100 (8.8%) Dublin, Ireland
-67 (5.9%) Tokyo, Japan
-56 (4.9%) London Borough of Islington, London, UK
-53 (4.7%) New York, NY, USA
-38 (3.3%) Singapore
-30 (2.6%)  New York, NY, USA
-25 (2.2%) Sydney, Australia
-23 (2.0%) San Francisco, CA, USA
-22 (1.9%) Toronto, ON, Canada
+97.7% (1903) Full-time
+2.2% (43) Intern
+0.1% (2) Part-time
+
+
+locations    -    1948 values, 97 distincts
+----
+40.0% (780) Mountain View, CA, USA
+8.1% (158) Dublin, Ireland
+6.8% (132) New York, NY, USA
+5.4% (105) Tokyo, Japan
+4.8% (94) London Borough of Islington, London, UK
+3.3% (65) San Francisco, CA, USA
+3.2% (62) San Bruno, CA, USA
+2.7% (53) Singapore
+2.3% (45) Sydney, Australia
+2.0% (38) Seattle, WA, USA
 
