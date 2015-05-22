@@ -2,8 +2,12 @@
 auto-transcoding video to text
  => extract text from video sound and images
 
-scrapping (jobs, papers,...) and graph vizu
+large-scale scrapping (jobs, papers,...)
 
 graph reconciliation
 
 large graph vizualization (server-side rendering ?)
+ -> multi-layer graph vizu ?
+
+=> Where to put the data if it becomes to large ?
+
