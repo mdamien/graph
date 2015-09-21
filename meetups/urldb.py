@@ -40,15 +40,21 @@ def store(slug, html):
     with open(filename,'w') as f:
         f.write(html)
 
-def get(url):
+def get(url,printdot=False):
     global headers
-    print("GET",url)
-
     slug = slugify(url)
     html = retrieve_cached(slug)
     if html:
-        print("got cached GET")
+        if printdot:
+            print('c', flush=True, end='')
+        else:
+            print("CACHED GET", url)
         return html
+    else:
+        if printdot:
+            print('.', flush=True, end='')
+        else:
+            print("GET",url)
 
     r = requests.get(url, headers=headers)
     if r.status_code != 200:
