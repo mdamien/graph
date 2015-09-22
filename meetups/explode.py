@@ -1,6 +1,7 @@
 import random
 from pprint import pprint as pp
 import json
+from itertools import chain
 
 import urldb
 from parser import parse_event, parse_group
@@ -8,22 +9,38 @@ from parser import parse_event, parse_group
 EVENT_PAGE, GROUP_PAGE, MEMBER_PAGE = range(3)
 
 def to_explore():
-	return {x.strip() for x in open('data/to_explore') if len(x.strip()) > 0]
+	return {x.strip() for x in open('data/to_explore') if len(x.strip()) > 0}
 
 def all_left_to_explore():
 	return to_explore()-explored()
 
 def explored():
-	groups = {x['url'] for x in json.load(open('data/done/groups.json'))
-	return groups
+	return {x['url'] for x in chain(explored_groups(), explored_events())}
 
-def add_group_explored(group):
-	pass
+def explored_groups():
+	try:
+		return json.load(open('data/done/groups.json'))
+	except:
+		return []
+
+def explored_events():
+	try:
+		return json.load(open('data/done/events.json'))
+	except:
+		return []
+
+def add_group_explored(event):
+	new = explored_events() + [event]
+	json.dump(new, open('data/done/groups.json','w'), indent=2)
+
+def add_event_explored(group):
+	new = explored_groups() + [group]
+	json.dump(new, open('data/done/events.json','w'), indent=2)
 
 def something_to_explore():
 	to_explore = all_left_to_explore()
 	if len(to_explore) == 0: return
-	return random.choice(to_explore)
+	return random.choice(list(to_explore))
 
 def detect_type(url):
 	if '/events/' in url:
@@ -35,12 +52,18 @@ def detect_type(url):
 while True:
 	url = something_to_explore()
 	if url == None: break
-	html = urldb.get(url)
+	try:
+		html = urldb.get(url)
+	except Exception as e:
+		print('error:',e)
+		continue
 	page_type = detect_type(url)
 	if page_type == EVENT_PAGE:
-		continue
+		event = parse_event(html, url)
+		add_event_explored(event)
 	if page_type == GROUP_PAGE:
 		group = parse_group(html, url)
+		add_group_explored(group)
 
 	print()
 	print()

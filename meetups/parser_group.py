@@ -25,7 +25,7 @@ def fetch_group_members(url_group):
     offset = 0
     while  True:
         url = "members/?offset={offset}&sort=join_date&desc=0"
-        html = urldb.get(url_group+url.format(offset=offset), printdot=True)
+        html = urldb.get(url_group+url.format(offset=offset), printdot=False)
         soup = BeautifulSoup(html, "html.parser")
         members = soup.find_all(class_="memberInfo")
         for member in members:
@@ -42,4 +42,6 @@ def fetch_group_members(url_group):
 def parse_group(html, url):
     infos = parse_group_infos(html)
     infos['members'] = fetch_group_members(url)
+    infos['private'] = len(infos['members']) == 0
+    infos['url'] = url
     return infos
