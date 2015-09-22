@@ -29,13 +29,13 @@ def explored_events():
 	except:
 		return []
 
-def add_group_explored(event):
+def add_event_explored(event):
 	new = explored_events() + [event]
-	json.dump(new, open('data/done/groups.json','w'), indent=2)
-
-def add_event_explored(group):
-	new = explored_groups() + [group]
 	json.dump(new, open('data/done/events.json','w'), indent=2)
+
+def add_group_explored(group):
+	new = explored_groups() + [group]
+	json.dump(new, open('data/done/groups.json','w'), indent=2)
 
 def something_to_explore():
 	to_explore = all_left_to_explore()
