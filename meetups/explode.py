@@ -18,24 +18,20 @@ def explored():
 	return {x['url'] for x in chain(explored_groups(), explored_events())}
 
 def explored_groups():
-	try:
-		return json.load(open('data/done/groups.json'))
-	except:
-		return []
+	return json.load(open('data/done/groups.json'))
 
 def explored_events():
-	try:
-		return json.load(open('data/done/events.json'))
-	except:
-		return []
+	return json.load(open('data/done/events.json'))
 
 def add_event_explored(event):
 	new = explored_events() + [event]
 	json.dump(new, open('data/done/events.json','w'), indent=2)
+	json.dump(new, open('data/done/events.bkp.json','w'), indent=2)
 
 def add_group_explored(group):
 	new = explored_groups() + [group]
 	json.dump(new, open('data/done/groups.json','w'), indent=2)
+	json.dump(new, open('data/done/groups.bkp.json','w'), indent=2)
 
 def something_to_explore():
 	to_explore = all_left_to_explore()
@@ -66,4 +62,6 @@ while True:
 		add_group_explored(group)
 
 	print()
+	print()
+	print(len(explored_groups()),'groups',len(explored_events()),'events')
 	print()

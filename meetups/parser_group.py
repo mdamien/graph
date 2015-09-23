@@ -35,6 +35,7 @@ def fetch_group_members(url_group):
             infos['url'] = name.attrs['href']
             all_members.append(infos)
         offset += 20
+        print(len(members))
         if len(members) < 20:
             break
     return all_members
