@@ -12,9 +12,9 @@ def to_explore():
 	return {x.strip() for x in open('data/to_explore') if len(x.strip()) > 0}
 
 def all_left_to_explore():
-	return to_explore()-explored()
+	return to_explore()-explored_urls()
 
-def explored():
+def explored_urls():
 	return {x['url'] for x in chain(explored_groups(), explored_events())}
 
 def explored_groups():
@@ -45,23 +45,25 @@ def detect_type(url):
 		return MEMBER_PAGE
 	return GROUP_PAGE
 
-while True:
-	url = something_to_explore()
-	if url == None: break
-	try:
-		html = urldb.get(url)
-	except Exception as e:
-		print('error:',e)
-		continue
-	page_type = detect_type(url)
-	if page_type == EVENT_PAGE:
-		event = parse_event(html, url)
-		add_event_explored(event)
-	if page_type == GROUP_PAGE:
-		group = parse_group(html, url)
-		add_group_explored(group)
 
-	print()
-	print()
-	print(len(explored_groups()),'groups',len(explored_events()),'events')
-	print()
+if __name__ == "__main__":
+	while True:
+		url = something_to_explore()
+		if url == None: break
+		try:
+			html = urldb.get(url)
+		except Exception as e:
+			print('error:',e)
+			continue
+		page_type = detect_type(url)
+		if page_type == EVENT_PAGE:
+			event = parse_event(html, url)
+			add_event_explored(event)
+		if page_type == GROUP_PAGE:
+			group = parse_group(html, url)
+			add_group_explored(group)
+
+		print()
+		print()
+		print(len(explored_groups()),'groups',len(explored_events()),'events')
+		print()

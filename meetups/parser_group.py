@@ -1,6 +1,8 @@
 import urldb, json
 from bs4 import BeautifulSoup
 
+from pprint import pprint as pp
+
 def parse_group_infos(html):
     h = BeautifulSoup(html[0], 'html.parser')
     interresting_keys = ('description','locality','country-name', \
@@ -25,13 +27,13 @@ def fetch_group_members(url_group):
     offset = 0
     while  True:
         url = "members/?offset={offset}&sort=join_date&desc=0"
-        html = urldb.get(url_group+url.format(offset=offset), printdot=False)
+        html = urldb.get(url_group+url.format(offset=offset))
         soup = BeautifulSoup(html, "html.parser")
         members = soup.find_all(class_="memberInfo")
         for member in members:
             infos = {}
             name = member.find(class_="memName")
-            infos['name'] = name.text.strip()
+            #infos['name'] = name.text.strip()
             infos['url'] = name.attrs['href']
             all_members.append(infos)
         offset += 20
@@ -40,9 +42,38 @@ def fetch_group_members(url_group):
             break
     return all_members
 
+def fetch_event_list(url_group):
+    url = "{group_url}events/past/?page={page}&__fragment=centerColMeetupList"
+    page = 0
+    events = []
+    while True:
+        r = urldb.get(url.format(page=page, group_url=url_group))
+        j = json.loads(r)
+        h = BeautifulSoup(j[0], 'html.parser')
+        a = h.find_all(class_='event-title')
+        print(len(a))
+        if len(a) == 0:
+            break
+        for el in a:
+            infos = {
+                'url': el.attrs['href'],
+                #'title': el.text.strip()
+            }
+            events.append(infos)
+        page += 1
+    return events
+
 def parse_group(html, url):
     infos = parse_group_infos(html)
     infos['members'] = fetch_group_members(url)
     infos['private'] = len(infos['members']) == 0
+    if not infos['private']:
+        infos['events'] = fetch_event_list(url)
     infos['url'] = url
     return infos
+
+if __name__ == '__main__':
+    html = open('examples/group.html').read()
+    url = 'http://www.meetup.com/fr/DC-French/'
+    group = parse_group(html, url)
+    pp(group)
