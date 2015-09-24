@@ -27,6 +27,17 @@ def parse_infos(html):
                     value = el.text.strip()
                 #print('     add', key, value)
                 infos[key] = value
+
+    attendees = soup.find('ul',{'id':'rsvp-list'})
+    if attendees:
+        attendees = attendees.find_all(class_='member-name')
+        infos['attendees'] = [x.find('a').attrs['href'] for x in attendees]
+
+    nogo = soup.find('div',{'id':'no-list'})
+    if nogo:
+        nogo = nogo.find_all(class_='member-name')
+        infos['nogo'] = [x.find('a').attrs['href'] for x in nogo]
+
     return infos
 
 def parse_event(html, url):

@@ -23,29 +23,29 @@ def parse_group_infos(html):
     return meetup_infos
 
 def fetch_group_members(url_group):
-    all_members = []
+    all_members = set()
     offset = 0
     while  True:
         url = "members/?offset={offset}&sort=join_date&desc=0"
         html = urldb.get(url_group+url.format(offset=offset))
         soup = BeautifulSoup(html, "html.parser")
         members = soup.find_all(class_="memberInfo")
+        prev_uniq_url = len(all_members)
         for member in members:
             infos = {}
             name = member.find(class_="memName")
             #infos['name'] = name.text.strip()
-            infos['url'] = name.attrs['href']
-            all_members.append(infos)
+            all_members.add(name.attrs['href'])
         offset += 20
-        print(len(members))
-        if len(members) < 20:
+        print(len(all_members),'=>',len(all_members))
+        if len(all_members) <= prev_uniq_url:
             break
-    return all_members
+    return list(all_members)
 
 def fetch_event_list(url_group):
     url = "{group_url}events/past/?page={page}&__fragment=centerColMeetupList"
     page = 0
-    events = []
+    events = set()
     while True:
         r = urldb.get(url.format(page=page, group_url=url_group))
         j = json.loads(r)
@@ -55,13 +55,9 @@ def fetch_event_list(url_group):
         if len(a) == 0:
             break
         for el in a:
-            infos = {
-                'url': el.attrs['href'],
-                #'title': el.text.strip()
-            }
-            events.append(infos)
+            events.add(el.attrs['href'])
         page += 1
-    return events
+    return list(events)
 
 def parse_group(html, url):
     infos = parse_group_infos(html)
